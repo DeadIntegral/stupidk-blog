@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Stupidk Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kei kim`,
+      summary: `stupidk note`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -12,7 +12,6 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -49,14 +48,19 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-189683083-1`,
+        head: true,
+        anonymize: true,
+        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "stupidk.com",
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
