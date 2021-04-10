@@ -1,6 +1,6 @@
 ---
 title: dev-weekly 2021-03-20
-date: "2021-03-20T9:10:00.000Z"
+date: "2021-03-20T09:10:00.000Z"
 description: "dev-weekly 2021-03-20"
 tags: ["javascript", "css", "go", "db"]
 ---
