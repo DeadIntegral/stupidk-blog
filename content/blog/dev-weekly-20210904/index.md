@@ -54,7 +54,7 @@ tags: ["javascript", "css", "node"]
 
 ### [Visual Studio Code August 2021 Released](https://code.visualstudio.com/updates/v1_60)
 
-- vscdoe에 붙여넣기 할 때 언어 감지
+- vscode에 붙여넣기 할 때 언어 감지
 - 커스텀 터미널 글리프 렌더링
 - 에디터 그룹 락
 

@@ -34,7 +34,6 @@ tags: ["javascript", "css"]
 - RN 0.65 릴리즈
 - Hermes 0.8.1 업그레이드
 - 접근성
-- 
 
 ### [Map overflow](https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24)
 
