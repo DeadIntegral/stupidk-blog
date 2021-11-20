@@ -109,6 +109,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Stupidk RSS Feed",
           },
         ],
       },
