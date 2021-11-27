@@ -60,7 +60,7 @@ tags: ["javascript", "node", "css"]
     ```
     
 
-### [https://bundlescanner.com/](https://bundlescanner.com/)
+### **[https://bundlescanner.com/](https://bundlescanner.com/)**
 
 - 사이트 주소를 입력하면 패키지들dml 사이즈와 번들사이즈를 표시
 (소스맵 없는곳은 그냥 청크 사이즈)

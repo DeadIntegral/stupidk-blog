@@ -22,7 +22,7 @@ tags: ["javascript", "node", "css"]
 
 # Node
 
-### [sudo rm →rf / === npm install](https://ghuntley.com/sudo-rm-rf/)
+### **[sudo rm →rf / === npm install](https://ghuntley.com/sudo-rm-rf/)**
 
 - ephemeral cloud-based 개발 환경이 대안이 될 것이라는 글
 - npm에서 논의중인 내용
