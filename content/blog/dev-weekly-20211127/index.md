@@ -1,5 +1,5 @@
 ---
-title: javascript weekly 2021-11-27
+title: dev-weekly weekly 2021-11-27
 date: "2021-11-27T10:00:00.000Z"
 description: "dev-weekly weekly 2021-11-27"
 tags: ["css", "node", "javascript"]
@@ -51,7 +51,7 @@ tags: ["css", "node", "javascript"]
 - TS 4.5의 modifier import, private field presence, import Assertions 등 지원
 - html class어트리뷰트 개행제거 - tailwind등의 사용자를 위한 기능이었지만 제거
 
-### [AWS Free tier big change](https://aws.amazon.com/ko/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
+### **[AWS Free tier big change](https://aws.amazon.com/ko/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)**
 
 - cloud front의 트래픽은 월 최대 1TB에 대해 무료, 가입 후 12개월 제한 제거
 - http request 200만 ⇒ 1000만건에 대해 무료
@@ -67,7 +67,7 @@ React Redux v8 Beta
 
 - [https://github.com/reduxjs/react-redux/releases/tag/v8.0.0-beta.0](https://github.com/reduxjs/react-redux/releases/tag/v8.0.0-beta.0)
 
-### [https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/)
+### **[https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/)**
 
 - 리액트 컴포넌트에 Rust wasm 사용하기 튜토리얼
 
