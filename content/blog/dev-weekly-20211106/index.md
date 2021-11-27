@@ -58,9 +58,9 @@ tags: ["javascript", "node", "css"]
 
 - NPM 다운로드 900만, 1400만인 Command-Option-Argument와 RC 하이잭킹. 이전의 us-parser-js 와 유사한 형태
 
-### [리코일 0.5.0 릴리즈](https://github.com/facebookexperimental/Recoil/releases/tag/0.5.0)
+### **[리코일 0.5.0 릴리즈](https://github.com/facebookexperimental/Recoil/releases/tag/0.5.0)**
 
-### [퍼펫티어 11.0.0 릴리즈](https://github.com/puppeteer/puppeteer/releases/tag/v11.0.0)
+### **[퍼펫티어 11.0.0 릴리즈](https://github.com/puppeteer/puppeteer/releases/tag/v11.0.0)**
 
 ### **[Depp: Check `npm` Modules for Unused and Duplicate Dependencies Fast](https://github.com/CryogenicPlanet/depp)**
 
@@ -72,4 +72,4 @@ tags: ["javascript", "node", "css"]
 
 # Etc
 
-### [메타버스에 대한 글](https://m.clien.net/service/board/park/16652597?po=1&sk=title&sv=%25EB%25A9%2594%25ED%2583%2580%25EB%25B2%2584%25EC%258A%25A4&groupCd=&pt=0)
+### **[메타버스에 대한 글](https://m.clien.net/service/board/park/16652597?po=1&sk=title&sv=%25EB%25A9%2594%25ED%2583%2580%25EB%25B2%2584%25EC%258A%25A4&groupCd=&pt=0)**
