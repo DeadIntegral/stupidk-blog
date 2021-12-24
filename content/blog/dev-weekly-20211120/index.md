@@ -66,7 +66,7 @@ tags: ["javascript", "node", "css"]
 (소스맵 없는곳은 그냥 청크 사이즈)
 - 작동방식 - [https://bundlescanner.com/about](https://bundlescanner.com/about)
 
-### **[Electron 16.0.0 Released](https://nodeweekly.com/link/116478/154188e1e3)**
+### **[Electron 16.0.0 Released](https://www.electronjs.org/blog/electron-16-0)**
 
 - 크롬 96, V8 9.6 지원
 
