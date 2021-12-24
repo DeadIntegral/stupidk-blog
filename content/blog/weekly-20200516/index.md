@@ -45,7 +45,7 @@ HEAP32[(ptr + offset) >> 2]
 # Code & Tools
 
 ## ESLint v7.0.0 Released 
-<a href="https://javascriptweekly.com/link/88515/4e4af8cb63" target="_blank">ESLint v7.0.0 released</a>
+<a href="https://eslint.org/blog/2020/05/eslint-v7.0.0-released" target="_blank">ESLint v7.0.0 released</a>
 - node 8 지원 중단
 - commonJS 룰 사용안함, bigint 인식, recommend 추가
 

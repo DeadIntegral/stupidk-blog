@@ -66,7 +66,7 @@ tags: ["javascript", "node", "css"]
 (소스맵 없는곳은 그냥 청크 사이즈)
 - 작동방식 - [https://bundlescanner.com/about](https://bundlescanner.com/about)
 
-### **[Electron 16.0.0 Released](https://nodeweekly.com/link/116478/154188e1e3)**
+### **[Electron 16.0.0 Released](https://www.electronjs.org/blog/electron-16-0)**
 
 - 크롬 96, V8 9.6 지원
 
@@ -102,7 +102,7 @@ netlify $105M 조달하고, 기업가치 $2B로 평가
 
 - [https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web](https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web)
 
-### **[MicroDiff: Lightweight, No Dependency Object and Array Comparison](https://javascriptweekly.com/link/116621/4e4af8cb63)**
+### **[MicroDiff: Lightweight, No Dependency Object and Array Comparison](https://github.com/AsyncBanana/microdiff)**
 
 - 가볍고 빠른 배열, 객체 비교 라이브러리.
 - 제로 종속성, TS지원

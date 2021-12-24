@@ -38,7 +38,7 @@ tags: ["css", "node", "javascript"]
 
 # Javascript
 
-### **[Remix: A Newly Open Sourced React-Based Framework for Web Apps](https://javascriptweekly.com/link/116831/4e4af8cb63)**
+### **[Remix: A Newly Open Sourced React-Based Framework for Web Apps](https://remix.run/)**
 
 - sponsorware로 제공되던 Remix가 $3M 펀딩을 받으며 프로젝트 시작
 

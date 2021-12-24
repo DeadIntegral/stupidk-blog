@@ -38,7 +38,7 @@ tags: ["css", "node", "javascript"]
 
 # Javascript
 
-### **[Deep-Copying in JavaScript Using `structuredClone`](https://javascriptweekly.com/link/117762/4e4af8cb63)**
+### **[Deep-Copying in JavaScript Using `structuredClone`](https://web.dev/structured-clone/)**
 
 - Node17, Deno 1.14, 각 브라우저의 나이틀리 버전에서 제공
 - `JSON.stringify` 에서는 `Map`, `Set`, `Date`, `RegExp`, `ArrayBuffer` 가 들어있으면 오작동
