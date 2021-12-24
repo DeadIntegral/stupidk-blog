@@ -64,11 +64,11 @@ tags: ["javascript", "node", "css"]
 
 - 종속성 없고 60fps에서 1만개 이상의 객체 렌더링
 
-### **[memoize-one 6.0: A Memoization Library with a Simple Approach](https://javascriptweekly.com/link/115361/web)**
+### **[memoize-one 6.0: A Memoization Library with a Simple Approach](https://github.com/alexreardon/memoize-one/releases/tag/v6.0.0)**
 
 - 마지막 호출(invocation)과 argument만 기억하고 다음 호출이 일치하면 캐시된 값을 반환하는 메모이제이션 라이브러리
 
-### **[OpenSilver 1.0: A Modern, Plugin-Free Reimplementation of Silverlight](https://javascriptweekly.com/link/115369/web)**
+### **[OpenSilver 1.0: A Modern, Plugin-Free Reimplementation of Silverlight](https://www.opensilver.net/)**
 
 - 실버라이트 대체제
 - WebAssembly를 통해 현재 브라우저에서 실행 가능

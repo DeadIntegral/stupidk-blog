@@ -34,7 +34,7 @@ Github Action이 Node 16 지원
 
 - 앵귤러 팀 리더 Igor(구글에서 11.5년, 앵귤러에서 12.5년 근무)의 구글퇴사
 
-### **[JSON Modules in JavaScript](https://javascriptweekly.com/link/117204/4e4af8cb63)**
+### **[JSON Modules in JavaScript](https://dmitripavlutin.com/javascript-json-modules/)**
 
 - `import json from "./file.json" asset { type: json };` json module 이제 stage3
 

@@ -46,7 +46,7 @@ tags: ["css", "node", "javascript"]
 
 # Javascript
 
-### **[How We Cut 99% of Our JavaScript with Qwik and Partytown](https://javascriptweekly.com/link/117441/4e4af8cb63)**
+### **[How We Cut 99% of Our JavaScript with Qwik and Partytown](https://www.builder.io/blog/how-we-cut-99-percent-js-with-qwik-and-partytown)**
 
 - JS Main Thread 에서 실행되지 않아도 되는 코드들을 worker로 보내서 성능 향상
 
