@@ -33,7 +33,7 @@ tags: ["javascript"]
 	- ex) <code>git shortlog -sn</code>, <code>git shortlog -sn --no-merges</code>
 
 # Understanding JavaScript's Various Module Formats and Tools
-<a href="https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools target="_blank">Understanding JavaScript's Various Module Formats and Tools</a>
+<a href="https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools" target="_blank">Understanding JavaScript's Various Module Formats and Tools</a>
 JS 모듈에 대해 설명해줍니다.
 - IIFE module: JavaScript module pattern
 - Revealing module: JavaScript revealing module pattern
