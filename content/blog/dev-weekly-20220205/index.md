@@ -2,7 +2,7 @@
 title: dev-weekly 2022-02-05
 date: "2022-02-05T08:30:00.000Z"
 description: "dev-weekly 2022-02-05"
-tags: ["javascript", "css", "node", "web", "DB"]
+tags: ["javascript", "css", "node", "go"]
 ---
 
 # CSS
@@ -97,3 +97,9 @@ tags: ["javascript", "css", "node", "web", "DB"]
 
 - 서버리스 virtual Linux 환경 - html5/WASM 으로 클라이언트 사이드에서 실행
 - [https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)
+
+# Go
+### **[Go 1.18 Beta 2 Released](https://go.dev/blog/go1.18beta2)**
+
+- 베타1도 이미 구글에서는 프로덕션에 사용중
+- 1.18 릴리즈는 3월 예상
