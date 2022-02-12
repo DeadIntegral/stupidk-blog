@@ -37,7 +37,7 @@ tags: ["javascript", "node"]
 - Pie Chart 레이아웃 최적화
 - Bar Chart 대형모드(데이터 > 2Kb) 최적화
 
-### **[Move Over JavaScript? How Some Backend Languages are Coming to the Front-End](https://javascriptweekly.com/link/119706/4e4af8cb63)**
+### **[Move Over JavaScript? How Some Backend Languages are Coming to the Front-End](https://github.com/readme/featured/server-side-languages-for-front-end)**
 
 - liveviews 라는 새로운 도구 ⇒ 모든 UI 요소는 서버에서 렌더링해서 웹소켓으로 전송, 클라이언트는 HTML, CSS를 수신해서 표시
 - 클라이언트CPU와 배터리에 가해지는 부담
