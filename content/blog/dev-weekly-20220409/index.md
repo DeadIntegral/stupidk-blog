@@ -65,7 +65,7 @@ tags: ["javascript", "css", "node"]
 - 코드의 중간에 이슈가 있을 때 뒷부분도 포맷팅하지 않는 이슈 해결
 - Prettier보다 약 9~12배 성능 향상
 
-### **[Writing Redux Reducers in Rust](https://javascriptweekly.com/link/122100/web)**
+### **[Writing Redux Reducers in Rust](https://fiberplane.dev/blog/writing-redux-reducers-in-rust/)**
 
 - Reducer를 Rust - WASM 으로 작성하기
 - 로직을 호출 할 때 마다 직렬화해서 WASM과 통신해야하는 코스트
@@ -83,7 +83,7 @@ tags: ["javascript", "css", "node"]
 - [https://astro.build/blog/astro-1-beta-release/](https://astro.build/blog/astro-1-beta-release/)
 - [https://reactnative.dev/blog/2022/03/30/version-068](https://reactnative.dev/blog/2022/03/30/version-068)
 
-### **[ShadowRealms: An ECMAScript Proposal for a Better `eval()`](https://javascriptweekly.com/link/122127/web)**
+### **[ShadowRealms: An ECMAScript Proposal for a Better `eval()`](https://2ality.com/2022/04/shadow-realms.html)**
 
 - 현재 컨텍스트와 별도의 컨텍스트에서 임의의 JS 코드를 실행하는 새로운 방법 - stage3
 
