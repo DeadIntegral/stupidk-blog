@@ -26,7 +26,7 @@ tags: ["javascript", "css", "node"]
 
 # Node
 
-### **[Node.js 18 (Current) Released](https://nodeweekly.com/link/122584/154188e1e3)**
+### **[Node.js 18 (Current) Released](https://nodejs.org/en/blog/announcements/v18-release-announce)**
 
 - V8 10.1 업데이트, fetch API(실험), core test runner module(실험)
 - 빌드 시점에 사용자 영역 스냅샷(실험)
@@ -42,7 +42,7 @@ tags: ["javascript", "css", "node"]
 
 # Javascript
 
-### **[Lexical: An Extensible Text Editor Library (That Does Things Differently)](https://javascriptweekly.com/link/122666/4e4af8cb63)**
+### **[Lexical: An Extensible Text Editor Library (That Does Things Differently)](https://lexical.dev/)**
 
 - 메타(페이스북)의 새 에디터. draftjs 대신 사용할 프레임워크
 - 렉시컬 노드 트리가 존재하고, 노드 변경이나 커맨드 listen 가능
