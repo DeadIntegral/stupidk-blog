@@ -59,11 +59,16 @@ tags: ["javascript", "css", "node"]
 
 ### **[Ryan Dahl on 'JavaScript Containers'](https://tinyclouds.org/javascript_containers)**
 
-- 
+- 라이언 달(Node, Deno 창시자)의 JS 컨테이너 글
+- 자바스크립트 샌드박스 - 서버 소프트웨어를 위한 상위 레벨 컨테이너
+- 리눅스 컨테이너가 사라지지는 않지만, 대부분의 웹 서비스는 JS 컨테이너 측면에서 생각하여 단순화 가능 할 것
 
 ### **[Babylon.js 5.0: The Powerful 3D Rendering Engine](https://babylonjs.medium.com/babylon-js-5-0-beyond-the-stars-2d11d4c3d07)**
 
-- 바빌론 5.0 릴리즈 -
+- 웹 렌더링 엔진 바빌론 5.0 릴리즈
+- 퍼포먼스 프로파일러, 제한없는 모프(Morph) 타겟, 독립적인 투명한 객체, WebXR
+- GUI 편집기 베타, 새 노드 머터리얼 에디터
+- Creative Commons 0 에셋 무료제공, 문서추가
 
 ### RELEASES
 
@@ -74,7 +79,10 @@ tags: ["javascript", "css", "node"]
 
 ### **[Porting Zelda Classic to the Web](https://hoten.cc/blog/porting-zelda-classic-to-the-web/)**
 
-- a
+- 젤다 클래식(게임 엔진)을 웹에 이식. PWA이므로 설치도 가능
+- 게임링크: [https://hoten.cc/zc/play/](https://hoten.cc/zc/play/)
+- 젤다 클래식을 웹으로 이식하는 기술 프로세스에 대한 개요
+- Emscripten, Workbox
 
 ### **[React Toastify 9.0: Notification Boxes Made Easy in React Apps](https://github.com/fkhadra/react-toastify/releases/tag/v9.0.0)**
 
