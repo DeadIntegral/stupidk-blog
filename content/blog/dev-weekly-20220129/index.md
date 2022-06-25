@@ -5,8 +5,6 @@ description: "dev-weekly 2022-01-29"
 tags: ["javascript", "node", "css", "go"]
 ---
 
-# 2022-01-29
-
 # CSS
 
 ### **[CSS Fingerprint](https://csstracking.dev/)**
