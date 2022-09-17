@@ -102,5 +102,3 @@ tags: ["javascript", "css", "node",]
 ### **[Set up a new Mac, Fast](https://cpojer.net/posts/set-up-a-new-mac-fast)**
 
 - yarn, jest의 개발자가 전하는 맥을 빠르게 셋팅하는 팁
-
-[https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/](https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/)
