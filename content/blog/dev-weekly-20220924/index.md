@@ -51,11 +51,11 @@ tags: ["javascript", "css", "node",]
 
 ### **[Tesseract.js 3.0: Pure JS OCR for Over 100 Languages](https://tesseract.projectnaptha.com/)**
 
-- Tesseract.js 3.0 릴리즈 - 러닝 타임 84% 감소, 지원되는 경우 SIMD 사용
+- OCR 도구 Tesseract.js 3.0 릴리즈 - 러닝 타임 84% 감소, 지원되는 경우 SIMD 사용
 
 ### **[A Proposed JS Feature: Extractor Objects](https://github.com/tc39/proposal-extractors)**
 
-- Extractor Object 스테이지1 진입
+- Extractor Object 스테이지1
 - [https://tc39.es/process-document/](https://tc39.es/process-document/)
 
 ### ****[Web based authentication now works for all npm commands](https://github.blog/changelog/2022-09-20-web-based-authentication-now-works-for-all-npm-commands/)****
@@ -64,5 +64,5 @@ tags: ["javascript", "css", "node",]
 
 ### **[Type-Level TypeScript: The Basics](https://type-level-typescript.com/)**
 
-- TS의 기본 개념을 소개하고, Type 문제를 풀어볼 수 있도록 제공
+- TS의 기본 컨셉들을 소개하고, Type 문제를 풀어볼 수 있는 REPL제공
 - 솔루션도 같이 제공, 문제를 풀면 폭죽 이펙트
