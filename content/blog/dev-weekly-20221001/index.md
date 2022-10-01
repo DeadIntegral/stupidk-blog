@@ -98,9 +98,9 @@ tags: ["javascript", "css", "node"]
 
 ### ****[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)****
 
-- JS/WASM 런타임 워크디(worked) 공개
+- JS/WASM 런타임 워커디(workerd) 공개
 - HTTP 서버에 중점을 둔 런타임
-- worked는 나노 서비스 - 라이브러리 호출에 가까운 오버헤드로 독립 배포의 이점
+- workerd는 나노 서비스 - 라이브러리 호출에 가까운 오버헤드로 독립 배포의 이점
 
 ### **[Preview.js: Fast Component Previews in Your IDE](https://previewjs.com/)**
 
