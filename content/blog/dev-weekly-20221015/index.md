@@ -29,7 +29,7 @@ tags: ["javascript", "css", "node"]
 
 # Javascript
 
-### **`[Intl` Explorer: A Way to Learn and Experiment with the ECMAScript Internationalization API](https://www.intl-explorer.com/?locale=ko)**
+### **[Intl Explorer: A Way to Learn and Experiment with the ECMAScript Internationalization API](https://www.intl-explorer.com/?locale=ko)**
 
 - Intl 를 실험하고 사용해보는 도구 및 플레이그라운드
 
