@@ -1,7 +1,7 @@
 ---
-title: dev-weekly 2022-10-29
-date: "2022-10-29T11:00:00.000Z"
-description: "dev-weekly 2022-10-29"
+title: dev-weekly 2022-11-05
+date: "2022-11-05T14:00:00.000Z"
+description: "dev-weekly 2022-11-05"
 tags: ["javascript", "css", "node"]
 ---
 # CSS
