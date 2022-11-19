@@ -50,7 +50,7 @@ tags: ["javascript", "css", "node"]
 
 # Node
 
-### [Don’t Worry, Nobody is Replacing Node.js](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)
+### **[Don’t Worry, Nobody is Replacing Node.js](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)**
 
 - deno, bun 등 다른 런타임들이 nodejs를 대체하진 않을거라고 주장하는 글
 
@@ -117,6 +117,6 @@ tags: ["javascript", "css", "node"]
 
 - 프로그래머 능력 매트릭스
 
-### [https://github.com/lennysec/awesome-tls-hacks](https://github.com/lennysec/awesome-tls-hacks)
+### **[https://github.com/lennysec/awesome-tls-hacks](https://github.com/lennysec/awesome-tls-hacks)**
 
 - SSL/TLS 보안 관련 리소스 모음

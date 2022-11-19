@@ -52,7 +52,7 @@ tags: ["javascript", "css", "node"]
 - 라이브러리들을 빌드하고 번들 사이즈 및 gzip 사이즈를 알려주는 서비스
 - [https://bundlephobia.com/](https://bundlephobia.com/) 와 유사
 
-### [VSCode **version 1.69**](https://code.visualstudio.com/updates/v1_69)
+### **[VSCode **version 1.69**](https://code.visualstudio.com/updates/v1_69)**
 
 - 3way merge editor
 - setting editor에서 수정된 항목 표시

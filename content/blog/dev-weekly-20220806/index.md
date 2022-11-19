@@ -54,7 +54,7 @@ tags: ["javascript", "node", "css"]
 
 - MS워드를 캔버스로 멀티플레이어 게임 제작(스트리트 파이터)
 
-### [VSCode **1.70 Release**](https://code.visualstudio.com/updates/v1_70)
+### **[VSCode **1.70 Release**](https://code.visualstudio.com/updates/v1_70)**
 
 - [https://twitter.com/stefanjudis/status/1555466217774882818](https://twitter.com/stefanjudis/status/1555466217774882818) sticky scrolling 기능
 - 터미널 렌더링 향상

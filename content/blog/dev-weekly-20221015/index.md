@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node"]
 - zero config 지원
 - 다양한 생태계 지원(React, Vue2,3, Svelte, SvelteKit. Lit 등) - 추가 구성 없이 작동
 
-### [State of GraphQL](https://2022.stateofgraphql.com/ko-KR/)
+### **[State of GraphQL](https://2022.stateofgraphql.com/ko-KR/)**
 
 - State of GraphQL 첫 설문조사 결과
 

@@ -57,7 +57,7 @@ tags: ["javascript", "css", "node",]
 - 기본 JS엔진 헤르메스로 변경
 - 새로운 아키텍처와 새 문서
 
-### [**History of JavaScript on a Timeline**](https://blog.risingstack.com/history-of-javascript-on-a-timeline/)
+### **[History of JavaScript on a Timeline](https://blog.risingstack.com/history-of-javascript-on-a-timeline/)**
 
 - JS의 역사 타임라인 - 넷스케이프, 브렌든아이크, MS JScript 부터 TS, ECMA2021에 이르기까지
 

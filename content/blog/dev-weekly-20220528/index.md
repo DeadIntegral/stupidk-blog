@@ -47,7 +47,7 @@ tags: ["javascript", "css", "node"]
 - page.js - 라우트 세그먼트에 고유하고, 유효하기 위해 필요한 UI
 - 리액트 서버 컴포넌트
 
-### [Angular 14 (currently in RC phase)](https://nevzatopcu.medium.com/what-is-new-in-angular-14-d31edf91fd3e)
+### **[Angular 14 (currently in RC phase)](https://nevzatopcu.medium.com/what-is-new-in-angular-14-d31edf91fd3e)**
 
 - 앵귤러 14 기능 소개
 

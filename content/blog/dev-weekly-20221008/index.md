@@ -51,7 +51,7 @@ tags: ["javascript", "css", "node"]
 
 - 13kB이하의 JS로 게임 만드는 대회 2022년 상위 13개 작품에 대한 소개
 
-### [VSCode **September 2022 (version 1.72)**](https://code.visualstudio.com/updates/v1_72)
+### **[VSCode **September 2022 (version 1.72)**](https://code.visualstudio.com/updates/v1_72)**
 
 - 3 way 머지 디폴트 false로 변경
 - 빌트인 비디오, 오디오 일부 추가

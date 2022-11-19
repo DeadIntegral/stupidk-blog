@@ -57,7 +57,7 @@ tags: ["javascript", "css", "node"]
 
 - 리렌더링 되더라도 함수를 다시 만들지 않는 `useEvent`
 
-### [Deno turns 4 today!](https://twitter.com/deno_land/status/1525119512277725184)
+### **[Deno turns 4 today!](https://twitter.com/deno_land/status/1525119512277725184)**
 
 - Deno 의 4번째 생일
 

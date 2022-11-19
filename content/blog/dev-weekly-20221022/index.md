@@ -44,7 +44,7 @@ tags: ["javascript", "css", "node"]
 
 - Windows10 파워쉘에서 npm command —인자1 인자2 를 사용하면 인자2가 사라지는 버그
 
-### [Sending UDP Messages without DNS Lookups](https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups/)
+### **[Sending UDP Messages without DNS Lookups](https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups/)**
 
 - Nodejs에서 dns.lookup() 없이 UDP 메시지 전송하기
 - dns.lookup은 libuv의 스레드 풀에서 실행되는 함수를 동기실 호출하기 때문에 지양

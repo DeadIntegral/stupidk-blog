@@ -61,7 +61,7 @@ tags: ["javascript", "css", "node",]
 
 - JSON Data를 넣으면 그래프로 만들어주는 도구
 
-### [jQuery 3.6.1 is here](https://blog.jquery.com/2022/08/26/jquery-3-6-1-maintenance-release/)
+### **[jQuery 3.6.1 is here](https://blog.jquery.com/2022/08/26/jquery-3-6-1-maintenance-release/)**
 
 - v3.6.0 이후 18개월만의 릴리즈
 
