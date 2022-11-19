@@ -73,7 +73,7 @@ tags: ["javascript", "css", "node"]
 - **[React 18.1](https://github.com/facebook/react/releases/tag/v18.1.0)**
     - 리액트 18.1 릴리즈
 
-### [Upgrading to React 18 with TypeScript](https://blog.logrocket.com/upgrading-react-18-typescript/)
+### **[Upgrading to React 18 with TypeScript](https://blog.logrocket.com/upgrading-react-18-typescript/)**
 
 - `npx types-react-codemod preset-18 ./src` 를 사용하여 코드 자동 변경
 

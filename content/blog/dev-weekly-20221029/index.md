@@ -54,7 +54,7 @@ tags: ["javascript", "css", "node", "devtool"]
 
 - TS 4.9 지원, deno 컴파일 타겟 설정 지원, 바벨로더 9.0
 
-### [Deno 1.27](https://deno.com/blog/v1.27)
+### **[Deno 1.27](https://deno.com/blog/v1.27)**
 
 - language Server/IDE 향상 - 자동완성 레지스트리
 - API들 안정화, lint 업데이트, v8 10.8 적용, Nodejs 호환성 개선 등

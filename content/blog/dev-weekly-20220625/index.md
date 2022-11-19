@@ -100,7 +100,7 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### [Stackoverflow 2022 survey](https://survey.stackoverflow.co/2022/)
+### **[Stackoverflow 2022 survey](https://survey.stackoverflow.co/2022/)**
 
 - 코딩 경험 50년이상 개발자 0.34%(240명), 전문 개발 경험 50년 이상 0.11%(55명)
 - 가장 선호하는 IDE는 VSCode(중복허용 74%, 2위 비주얼 스튜디오 32%)

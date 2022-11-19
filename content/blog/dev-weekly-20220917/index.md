@@ -42,7 +42,7 @@ tags: ["javascript", "css", "node",]
 - Favicon 생성기 7.0 릴리즈
 - Jimp대신 Sharp 사용, maskable 아이콘, TS도입
 
-### [September 22nd 2022 Security Releases](https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/)
+### **[September 22nd 2022 Security Releases](https://nodejs.org/en/blog/vulnerability/september-2022-security-releases/)**
 
 - 9월 22일 여러 문제(high severity)로 인해 Nodejs 보안 릴리즈. 18.x, 16.x, 14.x
 

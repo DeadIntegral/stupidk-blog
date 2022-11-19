@@ -38,7 +38,7 @@ tags: ["javascript", "css", "node"]
 - 깃헙 Star 히스토리를 차트로 보여주고, 다른 레포와 비교 가능
 - 많이 요청하면 access token이 필요할 수 있음
 
-### [/bin, /sbin, /usr/bin, /usr/local/bin 이 별도의 항목인 이유](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
+### **[/bin, /sbin, /usr/bin, /usr/local/bin 이 별도의 항목인 이유](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)**
 
 - 켄 톰슨과 데니스 리치가 PDP-7에서 OS를 만들 당시의 히스토리
 
