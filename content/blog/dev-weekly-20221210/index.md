@@ -21,7 +21,7 @@ tags: ["javascript", "css", "node"]
     - 그라데이션을 통해 스크롤 가능하다는 인디케이트 주기
     - sticky 헤더
 
-# Nodegpgp qmffhrm ek TjTdh!
+# Node!
 
 ### **[New npm Features for Secure Publishing and Safe Consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/)**
 
@@ -52,7 +52,7 @@ tags: ["javascript", "css", "node"]
 
 - 3 출시 이후 5개월만에 Vite 4.0 릴리즈. 커진 생태계에 대한 간략한 소개
 - 개발모드에서 SWC를 사용하는 React 플러그인 추가
-    - ****`@vitejs/plugin-react`, `@vitejs/plugin-react-swc (new)`**
+    - **`@vitejs/plugin-react`**, **`@vitejs/plugin-react-swc (new)`**
 - 브라우저 컴팻 최소 사파리14, 패키지 크기 감소
 
 ### **[Console Ninja: `console.log` Output Right Next to Your Code](https://console-ninja.com/)**
