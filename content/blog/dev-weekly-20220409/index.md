@@ -43,7 +43,7 @@ tags: ["javascript", "css", "node"]
 - 3월24일 이후 nightly build 로 사용 가능
 - [https://fusebit.io/blog/node-testing-comes-to-core/](https://fusebit.io/blog/node-testing-comes-to-core/)
 
-### ****[Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)****
+### **[Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)**
 
 - 람다에 https 엔드포인트를 추가하고, 선택적으로 CORS 헤더 구성 가능
 - `Content-type` 등 주의사항 및 적합한 사례

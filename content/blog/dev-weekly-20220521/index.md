@@ -62,7 +62,7 @@ tags: ["javascript", "css", "node"]
 - 웹 사이트와 웹 서비스의 작동 방식
 - 각 용어에 대한 개념과 비교 설명
 
-### ****[Render mathematical expressions in Markdown](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)****
+### **[Render mathematical expressions in Markdown](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)**
 
 - 깃헙 마크다운이 이제 LaTex 스타일 수학 표현식 렌더링
 - MathJax 라는 JS 기반 디스플레이 엔진을 통해 렌더링

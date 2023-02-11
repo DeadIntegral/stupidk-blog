@@ -91,12 +91,12 @@ tags: ["javascript", "css", "node"]
 
 - VSCode에는 타임라인 이라는 기능이 있어, 깃 커밋 없이 저장 시점마다 스냅샷을 저장해줌
 
-### ****[Announcing Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)****
+### **[Announcing Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)**
 
 - UX를 해치지 않는 캡차의 대체 도구 Turnstile 베타
 - 더 나은 인터넷을 만드는게 사명이기 때문에 무료로 공개
 
-### ****[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)****
+### **[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)**
 
 - JS/WASM 런타임 워커디(workerd) 공개
 - HTTP 서버에 중점을 둔 런타임

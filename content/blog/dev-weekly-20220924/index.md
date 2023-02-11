@@ -58,7 +58,7 @@ tags: ["javascript", "css", "node"]
 - Extractor Object 스테이지1
 - [https://tc39.es/process-document/](https://tc39.es/process-document/)
 
-### ****[Web based authentication now works for all npm commands](https://github.blog/changelog/2022-09-20-web-based-authentication-now-works-for-all-npm-commands/)****
+### **[Web based authentication now works for all npm commands](https://github.blog/changelog/2022-09-20-web-based-authentication-now-works-for-all-npm-commands/)**
 
 - CLI 8.19.1 부터 npm login, npm publish 등에 `--auth-type=web` 을 사용하여 웹 기반 인증 가능
 
