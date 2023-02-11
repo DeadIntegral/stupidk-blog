@@ -43,7 +43,7 @@ tags: ["javascript", "css", "node"]
 - PNPM 지원
 - workspace를 위한 VSCode 익스텐션
 
-### ****[First-class Vite support in Storybook](https://storybook.js.org/blog/first-class-vite-support-in-storybook/)****
+### **[First-class Vite support in Storybook](https://storybook.js.org/blog/first-class-vite-support-in-storybook/)**
 
 - 성능을 위해 pre-bundled 로 제공하고, webpack을 vite로 변경
 - zero config 지원

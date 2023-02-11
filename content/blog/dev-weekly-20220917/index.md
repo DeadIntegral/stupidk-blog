@@ -92,7 +92,7 @@ tags: ["javascript", "css", "node",]
 - 웹 모션 디자인 편집기 0.5 릴리즈
 - 키프레임 인라인 편집
 
-### ****[Disabled JavaScript turns off native lazy loading](https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/)****
+### **[Disabled JavaScript turns off native lazy loading](https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/)**
 
 - 자바스크립트를 비활성화 하면 `loading="lazy"` 가 작동하지 않음
 - 사이트가 페이지의 마크업에 전략적으로 이미지를 배치하여 세션 전체에서 사용자의 스크롤 위치를 추적할 수 있기 때문에, 추적 방지 조치

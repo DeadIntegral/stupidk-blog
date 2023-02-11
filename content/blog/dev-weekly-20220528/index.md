@@ -10,7 +10,7 @@ tags: ["javascript", "css", "node"]
 ### **[Lesser-Known And Underused CSS Features In 2022](https://www.smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/)**
 
 - 잘 알려지지 않은 CSS 속성과 셀렉터에 대한 설명
-- `All`, `currentColor`, fallback, interaction media query, `scroll-padding`, ****`font-variant`, `isolation`, `content-visibility`…
+- `All`, `currentColor`, fallback, interaction media query, `scroll-padding`, `font-variant`, `isolation`, `content-visibility`…
 - Counter(`counter-reset`, `reversed`, `counter-increment`, `counter`)
 
 ### **[Building a Button Component](https://web.dev/building-a-button-component)**

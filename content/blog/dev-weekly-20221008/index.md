@@ -28,7 +28,7 @@ tags: ["javascript", "css", "node"]
 - package.json에 `"preinstall": "node index.js"` 를 삽입
 - 사용자 자격 증명을 유출하는 코드 실행
 
-### ****[10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)****
+### **[10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)**
 
 - Docker 셋팅에 대해 널리 알려진 베이직한 컨피그에서 부터 하나씩 고쳐나가며 그렇게 개선해야 하는 이유 설명
 
