@@ -6,7 +6,7 @@ tags: ["javascript", "css", "node"]
 ---
 # CSS
 
-### [Selecting Previous Siblings with CSS `:has()`](https://tobiasahlin.com/blog/previous-sibling-css-has/)
+### **[Selecting Previous Siblings with CSS `:has()`](https://tobiasahlin.com/blog/previous-sibling-css-has/)**
 
 - has를 사용하여 특정 형제들 선택하기
 
@@ -37,7 +37,7 @@ tags: ["javascript", "css", "node"]
 
 # Javascript
 
-### [Could We Make The Web More Immersive using a Simple Optical Illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)
+### **[Could We Make The Web More Immersive using a Simple Optical Illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)**
 
 - 웹캠을 이용하여 사용자를 추적하고, 이에 따라 화면의 렌더링을 다르게 하여 입체적으로 보이게 하는 착시
 - 이 착시의 제한사항들 - 한쪽 눈 감기
@@ -57,7 +57,7 @@ tags: ["javascript", "css", "node"]
 - Vite, NextJS, Astro 등에 대해 핵심 설명
 - 도구별 장단점, 리액트 문서에서 기본값이 아닌 이유등 요약 정리
 
-### [Tracking the Fake GitHub Star Black Market with Dagster, dbt and BigQuery](https://dagster.io/blog/fake-stars)
+### **[Tracking the Fake GitHub Star Black Market with Dagster, dbt and BigQuery](https://dagster.io/blog/fake-stars)**
 
 - 깃헙 가짜 스타 시장에 대한 조사
 - 가짜 프로필의 조건을 설정해보고 빅쿼리 활용
@@ -77,7 +77,7 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### [The 'End' of Front-End Development?](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
+### **[The 'End' of Front-End Development?](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)**
 
 - AI로 인해 FE가 직업을 잃을것이냐는 질문에 대한 소신발언
 - 과거 부터 있던 우려. 2000년대는 워드프레스, 2010년대는 웹플로우, 2020년대는 노코드 도구들
