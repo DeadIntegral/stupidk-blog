@@ -4,11 +4,10 @@ date: "2023-03-18T12:40:00.000Z"
 description: "dev-weekly 2023-03-18"
 tags: ["javascript", "css", "node"]
 ---
-# 2023-03-18
 
 # CSS
 
-### [Ten Tips for Better CSS Transitions and Animations](https://joshcollinsworth.com/blog/great-transitions)
+### **[Ten Tips for Better CSS Transitions and Animations](https://joshcollinsworth.com/blog/great-transitions)**
 
 - CSS Transition, Animation을 더 잘 만들기 위한 팁들
 - 애니메이션 중 요소가 많이 변경되면 전환이 과도해 보일 수 있음
@@ -76,7 +75,7 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### [Design First, Then Build”: Let’s Bury This Myth Forevermore](https://evilmartians.com/chronicles/design-first-then-build-lets-bury-this-myth-forevermore)
+### **[Design First, Then Build”: Let’s Bury This Myth Forevermore](https://evilmartians.com/chronicles/design-first-then-build-lets-bury-this-myth-forevermore)**
 
 - 디자인 후 개발에 대한 대안
     - Mantra 1. 지금 당장 필요한 것만 디자인하기
@@ -84,6 +83,6 @@ tags: ["javascript", "css", "node"]
     - Mantra 3. 디자인 단계에서 큰 기능을 작은 작업으로 나누기
     - Mantra 4. 디자인과 개발간 커뮤니케이션 체계화
 
-### ****[The first version of your favorite digital products.](https://www.theversionone.com/)****
+### **[The first version of your favorite digital products.](https://www.theversionone.com/)**
 
 - 유명한 제품들(스포티파이, 트위터, 에이비앤비, 왓츠앱, 슬랙, 깃헙, 링크드인, 넷플릭스 등)의 초기 버전 UI 모음 서비스
