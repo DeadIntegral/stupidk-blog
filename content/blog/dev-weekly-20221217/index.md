@@ -18,7 +18,7 @@ tags: ["javascript", "css", "node"]
 
 # Node
 
-### Node Weekly most popular links
+### **Node Weekly most popular links**
 
 - **[Tao of Node: On Design, Architecture and Best Practices](https://alexkondov.com/tao-of-node/)**
 - **[Popular Node.js Patterns and Tools to Reconsider](https://practica.dev/blog/popular-nodejs-pattern-and-tools-to-reconsider/)**
@@ -46,7 +46,7 @@ tags: ["javascript", "css", "node"]
 - Interaction to Next Paint는 사용자가 이용하는 동안 발생하는 모든 인터랙션의 반응성을 평가하는 메트릭
 - 이벤트 콜백 최적화, 프레젠테이션 지인 최적화
 
-### Release
+### **Release**
 
 - **[Chart.js 4](https://github.com/chartjs/Chart.js/discussions/10977)**
 

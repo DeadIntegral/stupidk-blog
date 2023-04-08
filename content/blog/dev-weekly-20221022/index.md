@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node"]
 - Nodejs에서 dns.lookup() 없이 UDP 메시지 전송하기
 - dns.lookup은 libuv의 스레드 풀에서 실행되는 함수를 동기실 호출하기 때문에 지양
 
-### Release
+### **Release**
 
 - [Nx 15.0](https://github.com/nrwl/nx/releases/tag/15.0.0)
 - [google translate 2.0](https://github.com/iamtraction/google-translate/releases/tag/v2.0.0)

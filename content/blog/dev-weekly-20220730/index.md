@@ -44,7 +44,7 @@ tags: ["javascript", "node", "css"]
 
 - 내부적으로 serverless-webpack을 사용
 
-### ETC
+### **ETC**
 
 - [https://github.com/sindresorhus/got/releases/tag/v12.3.0](https://github.com/sindresorhus/got/releases/tag/v12.3.0)
 - [https://github.com/fastify/fastify/releases/tag/v4.3.0](https://github.com/fastify/fastify/releases/tag/v4.3.0)

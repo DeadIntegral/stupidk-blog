@@ -15,7 +15,7 @@ tags: ["js"]
 - Axel 박사의 책 ES 2022로 업데이트.
 - 여전히 온라인에서 책 전체 보기 가능
 
-### Update
+### **Update**
 
 - jasmine 4.0
     - [https://github.com/jasmine/jasmine/blob/main/release_notes/4.0.0.md](https://github.com/jasmine/jasmine/blob/main/release_notes/4.0.0.md)

@@ -46,7 +46,7 @@ tags: ["javascript", "css", "node"]
 
 - NodeJS 코어 팀의 Nodejs 코어 현황 프레젠테이션 (유튜브)
 
-### Release
+### **Release**
 
 - **[LDAPjs 3.0](https://github.com/ldapjs/node-ldapjs/releases/tag/v3.0.0)**
 - **[Storybook 7 Docs](https://www.notion.so/2023-02-25-f2b73474e066406a95aad25255bcd5f0)**

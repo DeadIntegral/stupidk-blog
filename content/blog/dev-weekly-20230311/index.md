@@ -7,7 +7,7 @@ tags: ["javascript", "css", "node"]
 
 # CSS
 
-### [An End to Typographic Widows on the Web](https://clagnut.com/blog/2424/)
+### **[An End to Typographic Widows on the Web](https://clagnut.com/blog/2424/)**
 
 - `text-wrap:balance` 크롬 카나리에 추가.
 - 엔진이 판단하여 적정한 시점에 개행
@@ -32,7 +32,7 @@ tags: ["javascript", "css", "node"]
 
 # Javascript
 
-### [2023 Web Framework Performance Report](https://astro.build/blog/2023-web-framework-performance-report/)
+### **[2023 Web Framework Performance Report](https://astro.build/blog/2023-web-framework-performance-report/)**
 
 - astro 에서 작성한 웹 프레임워크 리포트. Astro, SvelteKit, Gastby, Remix, WordPress, Next, Nuxt의 FID, CLS, LCP, INP, LightHouse 스코어 등에 대한 통계
 - 용량 제한, private 페이지 접근 불가(백오피스 등), 레거시 웹 사이트로 인한 수명 영향등의 지표적 한계 설명
@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node"]
 
 - CSS가 지원하는 신택스 `:has(:contain)` 과 같은 구문을 사용할 때 jQuery에서 에러를 뱉지 않도록 수정.
 
-### Release
+### **Release**
 
 - [Jest 29.5](https://github.com/facebook/jest/releases/tag/v29.5.0) - 실행 순서 셔플하는 기능 추가
 - [SWR 2.1](https://github.com/vercel/swr/releases/tag/v2.1.0) - `useSWRSubscription` hook 추가

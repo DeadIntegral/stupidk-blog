@@ -57,7 +57,7 @@ tags: ["css", "node", "javascript"]
 - http request 200만 ⇒ 1000만건에 대해 무료
 - cloud front function call에 대해 12개월 제약 제거, 월 200만건 무료
 
-### Release ses
+### **Release ses**
 
 Chalk 5.0
 

@@ -66,7 +66,7 @@ tags: ["javascript", "css", "node"]
 
 - 스벨트, 스벨트킷의 현 상태 업데이트
 
-### Release
+### **Release**
 
 - [Redux Toolkit 1.9](https://github.com/reduxjs/redux-toolkit/releases/tag/v1.9.0)
 - [VSCode October 2022 (version 1.73)](https://code.visualstudio.com/updates/v1_73)

@@ -38,7 +38,7 @@ tags: ["javascript", "node", "css"]
 
 - svelte 제작자 리치 해리스 vercel로 이직
 
-### Release
+### **Release**
 
 - cypress 9.0 릴리즈 - [https://github.com/cypress-io/cypress/releases/tag/v9.0.0](https://github.com/cypress-io/cypress/releases/tag/v9.0.0)
 - deno 1.16 릴리즈 - [https://deno.com/blog/v1.16](https://deno.com/blog/v1.16)

@@ -35,7 +35,7 @@ tags: ["javascript", "node", "css"]
 
 - s3에서 nodejs fs 신택스 사용하도록 해주는 도구
 
-### Release
+### **Release**
 
 - [node 19.5.0](https://nodejs.org/en/blog/release/v19.5.0/)
 - [deno v1.30.0](https://deno.com/blog/v1.30) - built in nodejs 모듈 지원, importMap 지원, api 변경사항 등
@@ -61,7 +61,7 @@ tags: ["javascript", "node", "css"]
 
 - .NET 7부터는 Blazor없이 JS에서 .NET 실행
 
-### Release
+### **Release**
 
 - **[React Router 6.8](https://github.com/remix-run/react-router/releases/tag/react-router%406.8.0)** - <Link to=””> 에 absolute url을 넣어도 origin 확인하여 알아서 client side nav로 처리
 - **[Cypress 12.4](https://docs.cypress.io/guides/references/changelog#12-4-0) -** 컴포넌트 테스트에서 vite 4.0 지원, 메모리관리 개선옵션, cy.log에서 newline 지원

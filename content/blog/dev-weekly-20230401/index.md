@@ -51,7 +51,7 @@ tags: ["javascript", "css", "node", "web", "typescript", "deno"]
 
 - VDom을 사용하지 않는 JSX 라이브러리
 
-### Release
+### **Release**
 
 **[sharp 0.32.0](https://github.com/lovell/sharp/releases/tag/v0.32.0)**
 
@@ -95,7 +95,7 @@ tags: ["javascript", "css", "node", "web", "typescript", "deno"]
 - JSON 파일 지원 (로마가 진단)
 - TS 4.7, 5.0 지원, 린트 옵션 추가
 
-### [Solid **v1.7.0 - U Can't Type This**](https://github.com/solidjs/solid/releases/tag/v1.7.0)
+### **[Solid **v1.7.0 - U Can't Type This**](https://github.com/solidjs/solid/releases/tag/v1.7.0)**
 
 - v2.0의 마이그레이션 시작 버전.
 - TS지원 향상, 모든 자식의 에러 검출 가능한 catchError, dev tools 안정화
@@ -109,7 +109,7 @@ tags: ["javascript", "css", "node", "web", "typescript", "deno"]
     - 노트북 저장 시 포맷 활성화, 활성화된 노트북 찾기, 노트북 내에서 스크롤 가능한 출력 영역
     - 노트북 출력에 대해 검색 지원
 
-### Release
+### **Release**
 
 **[Ionic 7.0](https://ionic.io/blog/ionic-7-is-here)**
 

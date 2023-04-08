@@ -63,7 +63,7 @@ tags: ["javascript", "css", "node"]
 - 아직 다른 브라우저는 지원할지 알 수 없으나 점진적 향상 기법으로 도입 가능
 - same origin에서 작동하고 meta tag에서 제어중이지만 CSS로 전환할 수 있음
 
-### JS Library Chore
+### **JS Library Chore**
 
 **[React ProseMirror: Integrate the ProseMirror Editor with React](https://github.com/nytimes/react-prosemirror)**
 

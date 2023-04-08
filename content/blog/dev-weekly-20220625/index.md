@@ -74,7 +74,7 @@ tags: ["javascript", "css", "node"]
 - AWS에서 ML 기반 개발 도우미 CodeWhisperer Preview
     - [https://aws.amazon.com/ko/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/](https://aws.amazon.com/ko/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/)
 
-### Release
+### **Release**
 
 - Angular eslint v14.0
     - [https://github.com/angular-eslint/angular-eslint/releases/tag/v14.0.0](https://github.com/angular-eslint/angular-eslint/releases/tag/v14.0.0)

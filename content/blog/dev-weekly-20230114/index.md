@@ -28,7 +28,7 @@ tags: ["javascript", "node"]
 - 패키지를 입력하면 패키지의 package.json을 린팅하는 도구
 - [https://publint.dev/rules](https://publint.dev/rules)
 
-### Release
+### **Release**
 
 - [node-mysql2 3.0 릴리즈](https://github.com/sidorares/node-mysql2/releases/tag/v3.0.0) (작성당시 3.0.1)
 

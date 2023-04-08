@@ -7,7 +7,7 @@ tags: ["javascript", "css", "node"]
 
 # CSS
 
-### [State of CSS 2022](https://2022.stateofcss.com/en-US/)
+### **[State of CSS 2022](https://2022.stateofcss.com/en-US/)**
 
 - [stateofcss.com](http://stateofcss.com) 에서는 comming soon이라고 나오지만 직접 접근 가능
 
@@ -64,7 +64,7 @@ tags: ["javascript", "css", "node"]
 - 파티타운의 샌드박싱은 신뢰할 수 없는 타사 코드를 안전하게 실행할 만큼 강력하지 않음
 - 파티타운은 프록시를 통해 브라우저 API 사용
 
-### Release
+### **Release**
 
 - **[Announcing Rome v11](https://rome.tools/blog/2022/12/06/rome11/)**
 - **[storybook v7.0.0-beta.0](https://github.com/storybookjs/storybook/releases/tag/v7.0.0-beta.0)**
@@ -75,7 +75,7 @@ tags: ["javascript", "css", "node"]
 
 # Etc
 
-### [**VSCode November 2022 (version 1.74)**](https://code.visualstudio.com/updates/v1_74)
+### **[**VSCode November 2022 (version 1.74)**](https://code.visualstudio.com/updates/v1_74)**
 
 - 탐색기 autoreavel 설정 (설정에 넣으면 exclude)
 - 디버깅에서 console.profile 을 통한 cpu, heap profile 제공

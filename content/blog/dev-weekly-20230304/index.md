@@ -58,6 +58,6 @@ tags: ["javascript", "css", "node", "etc"]
 
 - 로컬 퍼스트 웹에 대한 컨셉, 개발 방법론 등
 
-### [The Carbon Impact of Web Standards](https://websitesustainability.com/cache/files/research23.pdf)
+### **[The Carbon Impact of Web Standards](https://websitesustainability.com/cache/files/research23.pdf)**
 
 - 웹 사이트, 서비스, 웹앱의 탄소 배출량 계산 리포트

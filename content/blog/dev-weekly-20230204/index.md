@@ -70,7 +70,7 @@ tags: ["javascript", "node", "css"]
 
 - RFC를 준수한 UUID v1~v4 생성기
 
-### Release
+### **Release**
 
 - **[Nest 9.3](https://github.com/nestjs/nest/releases) -** Nest 9.3 릴리즈(글 작성 시점에 9.3.2)
 - **[Docusaurus 2.3](https://github.com/facebook/docusaurus/releases/tag/v2.3.0)** - Docusaurus 2.3 릴리즈 (글 작성 시점에 2.3.1)

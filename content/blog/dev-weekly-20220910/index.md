@@ -61,7 +61,7 @@ tags: ["javascript", "css", "node",]
 
 - JS의 역사 타임라인 - 넷스케이프, 브렌든아이크, MS JScript 부터 TS, ECMA2021에 이르기까지
 
-### Release
+### **Release**
 
 - [https://nextjs.org/blog/next-12-3](https://nextjs.org/blog/next-12-3)
 - [https://github.com/emberjs/ember.js/releases/tag/v4.7.0](https://github.com/emberjs/ember.js/releases/tag/v4.7.0)

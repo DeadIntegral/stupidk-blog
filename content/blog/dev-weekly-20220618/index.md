@@ -39,7 +39,7 @@ tags: ["javascript", "css", "node"]
 
 # Javascript
 
-### Release
+### **Release**
 
 - [Prettier 2.7](https://prettier.io/blog/2022/06/14/2.7.0.html) - TS 4.7 지원
 - [Lerna 5.1](https://blog.nrwl.io/lerna-5-1-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-64d66410bec7) - 새로운 웹사이트, 분산 캐싱 및 분산 태스크 실행

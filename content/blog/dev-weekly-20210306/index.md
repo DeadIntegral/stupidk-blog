@@ -94,7 +94,7 @@ tags: ["javascript", "css", "node", "deno", "go"]
 
 - 크롬 89, 노드 14.16, V8 8.9 로 스택 변경
 
-### QUICK BITS
+### **QUICK BITS**
 
 [https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/](https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/)
 
@@ -110,6 +110,6 @@ tags: ["javascript", "css", "node", "deno", "go"]
 
 - 웹 마인크래프트 - 반응이 좀 느림
 
-### Quick release
+### **Quick release**
 
 [https://github.com/pixijs/pixi.js/releases/tag/v6.0.0](https://github.com/pixijs/pixi.js/releases/tag/v6.0.0) pixi js 6.0 릴리즈

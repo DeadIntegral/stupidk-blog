@@ -88,7 +88,7 @@ tags: ["javascript", "node", "css"]
 
 - 리액트 18 베타 출시. 릴리즈는 2022년 1분기 예정
 
-### Brief
+### **Brief**
 
 kent c dodds Remix에 합류
 

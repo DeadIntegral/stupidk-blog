@@ -35,7 +35,7 @@ tags: ["javascript", "css", "node"]
 
 - 터미널 스타일링 도구 chalk로 만든 터미널 애니메이션
 
-### release
+### **release**
 
 - [https://github.com/google/zx/releases/tag/6.1.0](https://github.com/google/zx/releases/tag/6.1.0)
 - [https://github.com/googleapis/google-auth-library-nodejs/releases/tag/v8.0.0](https://github.com/googleapis/google-auth-library-nodejs/releases/tag/v8.0.0)
@@ -52,7 +52,7 @@ tags: ["javascript", "css", "node"]
 
 - 사용해야 하는 이유: [https://whyember.com/](https://whyember.com/)
 
-### In brief
+### **In brief**
 
 - **[GitHub profile private](https://github.blog/changelog/2022-04-21-private-profiles/)** - 깃헙 프로필 비공개 가능
 - **[JavaScript for MS-DOS](https://hackaday.com/2022/04/15/javascript-is-everywhere-even-msdos/)**
@@ -60,7 +60,7 @@ tags: ["javascript", "css", "node"]
     - 최소사양: 하드웨어 80386 4MB, 램 8MB 이상
 - **[WebAssembly 2.0](https://www.w3.org/TR/wasm-core-2/)** - 첫 public working draft
 
-### Release
+### **Release**
 
 - [https://deno.com/blog/v1.21](https://deno.com/blog/v1.21)
 - [https://github.com/reduxjs/react-redux/releases/tag/v8.0.0](https://github.com/reduxjs/react-redux/releases/tag/v8.0.0)

@@ -42,7 +42,7 @@ tags: ["javascript", "css", "node"]
 
 - AWS 람다 서버리스 런타임이 시작하는데 얼마나 걸리는지 라이브 데모를 제공하는 페이지
 
-### [On Using Playwright in GitHub Actions](https://radekmie.dev/blog/on-playwright-in-github-actions/)
+### **[On Using Playwright in GitHub Actions](https://radekmie.dev/blog/on-playwright-in-github-actions/)**
 
 - github action에 Playwright포함하는 예제
 - 테스트에 걸리는 시간 단축을 위한 Playwright 샤드 이용하기

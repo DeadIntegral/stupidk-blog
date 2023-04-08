@@ -15,7 +15,7 @@ tags: ["javascript", "css", "node"]
         - flexbox에는 레이어 컨셉이 들어가있고, z-index를 사용 가능
     - ⇒ 레이아웃 모드에 따라 프로퍼티는 다르게 구현됨
 
-### 참고
+### **$1**
 
 - [https://ageek.dev/css-layouts](https://ageek.dev/css-layouts)
 - Default Layout(Flow Layout)
@@ -57,11 +57,11 @@ tags: ["javascript", "css", "node"]
 - Deno 지원, esm, ts, large object 지원
 - 요청 취소
 
-### [Creating Node Docker Images That Build in 2 Seconds (Sort Of)](https://xmorse.xyz/blog/creating-node-js-docker-images-that-build-in-2-seconds-c428aec57fd44a9f93957bdf2ebf4f54)
+### **[Creating Node Docker Images That Build in 2 Seconds (Sort Of)](https://xmorse.xyz/blog/creating-node-js-docker-images-that-build-in-2-seconds-c428aec57fd44a9f93957bdf2ebf4f54)**
 
 - 2초만에 빌드되는 노드 도커 이미지 - esbuild
 
-### [Undici 5.0: The Modern HTTP/1.1 Client for Node](https://github.com/nodejs/undici/releases/tag/v5.0.0)
+### **[Undici 5.0: The Modern HTTP/1.1 Client for Node](https://github.com/nodejs/undici/releases/tag/v5.0.0)**
 
 
 # Javascript
@@ -84,7 +84,7 @@ tags: ["javascript", "css", "node"]
 
 - 영국 정부 사이트(https://gov.uk)가 jQuery 종속성 제거
 
-### Release
+### **Release**
 
 - **[React Testing Library 13](https://github.com/testing-library/react-testing-library/releases/tag/v13.0.0) - react 18 support**
 - **[ioredis 5](https://github.com/luin/ioredis/wiki/Upgrading-from-v4-to-v5) -** `@types/ioredis` 제거, default promise만 지원

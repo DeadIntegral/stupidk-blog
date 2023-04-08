@@ -49,7 +49,7 @@ tags: ["javascript", "css"]
 - WebGL이 제공 안하는 고급 기능 접근 가능
 - Babylon.js, PlayCanvas, Tensorflow.js, Three.js 등은 구현중이거나 이미 지원 (한줄 변경하면 지원)
 
-### Release
+### **Release**
 
 - [Electron 24.0](https://www.electronjs.org/blog/electron-24-0)
 - [Storybook 7.0](https://github.com/storybookjs/storybook/releases/tag/v7.0.0)

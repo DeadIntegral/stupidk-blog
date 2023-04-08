@@ -50,7 +50,7 @@ tags: ["css", "node", "javascript"]
 
 - JS Main Thread 에서 실행되지 않아도 되는 코드들을 worker로 보내서 성능 향상
 
-### [**Github a new 'lists' feature in beta**](https://github.blog/changelog/2021-12-09-lists-are-now-available-as-a-public-beta/)
+### **[**Github a new 'lists' feature in beta**](https://github.blog/changelog/2021-12-09-lists-are-now-available-as-a-public-beta/)**
 
 - 깃헙의 새로운 star list
 

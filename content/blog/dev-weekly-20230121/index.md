@@ -62,7 +62,7 @@ tags: ["javascript", "node", "css"]
 - 테스트 실행에서 타입 검사 제거 - TS 컴파일러가 하는 일 중복
 - 전체 테스트 실행하지 않기 - Jest는 변경된 파일을 기반으로 실행해야 하는 하위집합을 파악할 수 있음
 
-### Release
+### **Release**
 
 - **[Remix 1.10.0](https://github.com/remix-run/remix/releases/tag/remix%401.10.0)**
 - [axios 1.2.3](https://github.com/axios/axios/releases/tag/v1.2.3)

@@ -9,7 +9,7 @@ tags: ["javascript", "css", "go", "db"]
 
 ## CSS
 
-### [Debugging Layout Shifts](https://web.dev/debugging-layout-shifts/)
+### **[Debugging Layout Shifts](https://web.dev/debugging-layout-shifts/)**
 
 - 레이아웃 시프트 디버깅하기
 - 코드 스니펫 및 개발자도구 - 퍼포먼스 탭 사용법
@@ -26,12 +26,12 @@ new PerformanceObserver((entryList) => {
 }).observe({type: 'layout-shift', buffered: true});
 ```
 
-### [Digging Into CSS Logical Properties](https://ishadeed.com/article/css-logical-properties/)
+### **[Digging Into CSS Logical Properties](https://ishadeed.com/article/css-logical-properties/)**
 
 - 다국어 지원 중 RTL 의 번거로운 작업을 대체할 프로퍼티들 소개
 - margin-inline-[start, end], padding-inline-[start, end], inset-inline-[start, end] 등
 
-### [CSS Auditing Tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
+### **[CSS Auditing Tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)**
 
 - [https://cssstats.com/](https://cssstats.com/)
 - [https://yellowlab.tools/](https://yellowlab.tools/)
@@ -40,19 +40,19 @@ new PerformanceObserver((entryList) => {
 
 ## DB
 
-### [Introducing Amazon S3 Object Lambda: Process Data During Retrieval](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
+### **[Introducing Amazon S3 Object Lambda: Process Data During Retrieval](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)**
 
 - S3의 15주년을 맞아 새로운 기능 추가
 
 ## GO
 
-### [REST Servers in Go: Middleware](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/)
+### **[REST Servers in Go: Middleware](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/)**
 
 - GO 에서 REST 서버를 작성하는 방법 시리즈 5번째 - 미들웨어
 
 # Javascript
 
-### [V8 Release v9.0](https://v8.dev/blog/v8-release-90)
+### **[V8 Release v9.0](https://v8.dev/blog/v8-release-90)**
 
 - RegExp에서 일치하는 인덱스에 접근가능
 
@@ -89,7 +89,7 @@ new PerformanceObserver((entryList) => {
 
 ## Articles, Opinion & Tutorials
 
-### [Object Plus Array Is Not Zero](https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5)
+### **[Object Plus Array Is Not Zero](https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5)**
 
 - 크롬과 AST explorer을 이용해서 일반적인 js 오해( {} + [], [] + {} )에 대해 설명
 - ({} + []) 로 묶어보면 [object object]
@@ -98,15 +98,15 @@ new PerformanceObserver((entryList) => {
 
 ## Code & Tools
 
-### [React95 3.7: Windows 95-Style UI Components for React](https://github.com/arturbien/React95)
+### **[React95 3.7: Windows 95-Style UI Components for React](https://github.com/arturbien/React95)**
 
 - 윈도95 스타일의 리액트 UI 컴포넌트 모음
 
-### [Lite YouTube Embed: A Faster Youtube Embed](https://github.com/paulirish/lite-youtube-embed)
+### **[Lite YouTube Embed: A Faster Youtube Embed](https://github.com/paulirish/lite-youtube-embed)**
 
 - 공식지원보다 빠른 유튜브 삽입하는 도구
 
-### [sql.js 1.5: A Library to Run SQLite on the Web](https://github.com/sql-js/sql.js/releases/tag/v1.5.0)
+### **[sql.js 1.5: A Library to Run SQLite on the Web](https://github.com/sql-js/sql.js/releases/tag/v1.5.0)**
 
 - sqljs 1.5 릴리즈 - 2021-03-12에 있던 sqlite 3.35 릴리즈 적용
 - sqlite 3.35 내용
@@ -115,6 +115,6 @@ new PerformanceObserver((entryList) => {
     - RETURNING processed rows for DELETE, INSERT and UPDATE
     - Materialized CTEs.
 
-### [Spectacle 7: A React and JSX-Based Presentation Library](https://github.com/FormidableLabs/spectacle)
+### **[Spectacle 7: A React and JSX-Based Presentation Library](https://github.com/FormidableLabs/spectacle)**
 
 - 리액트 기반 프레젠테이션 라이브러리

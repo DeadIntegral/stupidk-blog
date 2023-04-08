@@ -55,7 +55,7 @@ tags: ["javascript", "css", "node"]
 
 - React 18의 새로운 기능과 변경을 다루는 RFC
 
-### [AWS Lambda now supports up to 10GB of ephemeral storage](https://aws.amazon.com/ko/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)
+### **[AWS Lambda now supports up to 10GB of ephemeral storage](https://aws.amazon.com/ko/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)**
 
 - AWS 람다가 이전 512MB 제한에서 최대 10GB 제한으로 변경 (선택 가능)
     - 과거 미디어 트랜스 코딩과 같은 작업을 할 때 큰 데이터는 로컬 캐싱을 못해서 개발자를 힘들게 함

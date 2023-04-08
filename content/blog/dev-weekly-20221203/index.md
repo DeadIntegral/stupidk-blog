@@ -78,7 +78,7 @@ tags: ["javascript", "css", "node"]
     - 개발자는 익스텐션 바이너리 패키징을 담당
     - 웹소켓 기반 IPC이기 때문에 네이티브 Cpp만큼 빠르지 않음
 
-### Release
+### **Release**
 
 **[OCLIF 3.3](https://github.com/oclif/oclif)** - 세일즈포스의 nodejs cli 만드는 도구
 

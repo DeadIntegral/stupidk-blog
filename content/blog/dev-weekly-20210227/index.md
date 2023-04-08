@@ -90,7 +90,7 @@ tags: ["javascript", "css", "node", "web", "DB"]
 - d3 제작자분의 1.0 릴리즈 이후 지난 10년간의 후기
 - 오픈소스에 대한 마음가짐 및 방향성
 
-### Quick Bits
+### **Quick Bits**
 
 [https://free-for.dev/#/](https://free-for.dev/#/)
 
@@ -113,7 +113,7 @@ tags: ["javascript", "css", "node", "web", "DB"]
 
 - 태그 에디터
 
-### Quick release
+### **Quick release**
 
 [https://github.com/puppeteer/puppeteer/releases/tag/v8.0.0](https://github.com/puppeteer/puppeteer/releases/tag/v8.0.0)
 

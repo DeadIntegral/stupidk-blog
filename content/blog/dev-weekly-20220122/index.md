@@ -39,7 +39,7 @@ tags: ["javascript", "node", "css"]
 - 리믹스 팀에서 작성한 Next와 Remix 비교
 - 비교 방법이 공개되어있고, 공정하려고 노력
 
-### [structuredClone()](https://twitter.com/simonplend/status/1483789097734918152)
+### **[structuredClone()](https://twitter.com/simonplend/status/1483789097734918152)**
 
 - 노드17 부터 제공되는 딥클론.
 - [https://developer.mozilla.org/en-US/docs/Web/API/structuredClone](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
@@ -60,7 +60,7 @@ tags: ["javascript", "node", "css"]
 - Web Cryptography API 완성
 - devtools 확장
 
-### Release
+### **Release**
 
 - [https://eslint.org/blog/2022/01/eslint-v8.7.0-released](https://eslint.org/blog/2022/01/eslint-v8.7.0-released)
 - [https://github.com/remarkjs/react-markdown/releases/tag/8.0.0](https://github.com/remarkjs/react-markdown/releases/tag/8.0.0)

@@ -65,7 +65,7 @@ tags: ["javascript", "css", "node"]
 - OverlayScrollbar 2.0 릴리즈. TS로 재작성
 - 번들 사이즈 54.2kB ⇒ 29.4kB로 감소 (gizp기준으로는 22.9kB ⇒ 13.8kB)
 
-### Release
+### **Release**
 
 - **[Capacitor 4.5](https://github.com/ionic-team/capacitor/releases/tag/4.5.0)**
 - **[React95 4.0](https://github.com/react95-io/React95/releases/tag/v4.0.0)**
