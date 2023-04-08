@@ -69,7 +69,7 @@ tags: ["javascript", "css", "node"]
 - Edge to Serverless: Cloud Provider들이 경쟁적으로 TTI 개선 중
 - JS Runtime: Deno, Bun
 
-### ****[A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)****
+### **[A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)**
 
 - 리액트가 나오고부터 지금까지 있었던 비판들 타임라인 정리
 

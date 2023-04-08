@@ -46,7 +46,7 @@ tags: ["javascript", "css", "node"]
 - Windows 7/8/8.1을 지원하는 마지막 메이저 버전
 - **[Introducing Electron Forge 6](https://www.electronjs.org/blog/forge-v6-release)**
 
-### ****[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)****
+### **[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)**
 
 - Framework - 스토리북 자동 구성 패키지
 - 애플리케이션의 설정을 읽고 스토리북 자동 구축.

@@ -21,11 +21,11 @@ tags: ["javascript", "node", "css"]
 
 # Node
 
-### ****[Gatsby is joining Netlify](https://www.notion.so/2023-02-03-e4b57798c2654c8c8fcf12e2eb8c8e16)****
+### **[Gatsby is joining Netlify](https://www.notion.so/2023-02-03-e4b57798c2654c8c8fcf12e2eb8c8e16)**
 
 - Netlify에서 Gatsby 인수
 
-### ****[7 Awesome Free APIs for Your Next Node.js Project](https://maximorlov.com/awesome-apis-for-nodejs-projects/)****
+### **[7 Awesome Free APIs for Your Next Node.js Project](https://maximorlov.com/awesome-apis-for-nodejs-projects/)**
 
 - Nodejs 프로젝트를 위한 7가지 무료 API 서비스 소개
 

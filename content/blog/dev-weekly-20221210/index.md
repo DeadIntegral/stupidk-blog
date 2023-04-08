@@ -66,10 +66,10 @@ tags: ["javascript", "css", "node"]
 
 ### Release
 
-- ****[Announcing Rome v11](https://rome.tools/blog/2022/12/06/rome11/)****
+- **[Announcing Rome v11](https://rome.tools/blog/2022/12/06/rome11/)**
 - **[storybook v7.0.0-beta.0](https://github.com/storybookjs/storybook/releases/tag/v7.0.0-beta.0)**
-- ****[Nx 15.3 — Standalone Projects, Vite, Task Graph and more!](https://blog.nrwl.io/nx-15-3-standalone-projects-vite-task-graph-and-more-3ed23f7827ed)****
-- ****[Bun v0.3.0](https://bun.sh/blog/bun-v0.3.0)****
+- **[Nx 15.3 — Standalone Projects, Vite, Task Graph and more!](https://blog.nrwl.io/nx-15-3-standalone-projects-vite-task-graph-and-more-3ed23f7827ed)**
+- **[Bun v0.3.0](https://bun.sh/blog/bun-v0.3.0)**
 - **[Partytown 0.7.3](https://github.com/BuilderIO/partytown/releases/tag/v0.7.3)**
 - **[React Tooltip 5.0](https://github.com/ReactTooltip/react-tooltip/releases/tag/v5.0.0)** - float ui 기반으로 변경
 

@@ -42,14 +42,14 @@ tags: ["javascript", "css", "node"]
 - napi 혹은 그에 준하는 로울 레벨 패키지는 실행 불가. WASM, JS 모듈만 실행 가능. raw 소켓이 지원되지 않아 아직 브라우저에서 Postgres, MongoDB, MySQL은 사용 불가
 - 웹 컨테이너는 SharedArrayBuffer등을 사용해서 Safari에서 사용 할 수 없고 Cross Origin Ioslation 헤더 작업 필요.
 
-### ****[The State of Node.js Core ft. Colin Ihrig | JS Drops](https://www.youtube.com/watch?v=OIrGEgMwPvc)****
+### **[The State of Node.js Core ft. Colin Ihrig | JS Drops](https://www.youtube.com/watch?v=OIrGEgMwPvc)**
 
 - NodeJS 코어 팀의 Nodejs 코어 현황 프레젠테이션 (유튜브)
 
 ### Release
 
 - **[LDAPjs 3.0](https://github.com/ldapjs/node-ldapjs/releases/tag/v3.0.0)**
-- ****[Storybook 7 Docs](https://www.notion.so/2023-02-25-f2b73474e066406a95aad25255bcd5f0)****
+- **[Storybook 7 Docs](https://www.notion.so/2023-02-25-f2b73474e066406a95aad25255bcd5f0)**
 - **[Angular 15.2](https://github.com/angular/angular/releases/tag/15.2.0)**
 - **[React Testing Library 14.0](https://github.com/testing-library/react-testing-library/releases/tag/v14.0.0)**
 
@@ -66,7 +66,7 @@ tags: ["javascript", "css", "node"]
     - 백그라운드 페이지의 네트워크 트래픽은 ad block, privacy extension의 영향을 받지 않음
 - 얼마나 다양한 정보를 훔칠 수 있는지 위협요소 나열
 
-### ****[Next.js 13.2](https://nextjs.org/blog/next-13-2)****
+### **[Next.js 13.2](https://nextjs.org/blog/next-13-2)**
 
 - 새로운 Metadata API 제공 - 서버 컴포넌트인 모든 레이아웃, 페이지에 메타데이터 셋팅 가능
 - 서버 컴포넌트를 위한 MDX, Rust MDX 파서

@@ -84,6 +84,6 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### ****[Introducing the Ask Wizard: Your guide to crafting high-quality questions](https://stackoverflow.blog/2022/10/27/introducing-the-ask-wizard-your-guide-to-crafting-high-quality-questions/)****
+### **[Introducing the Ask Wizard: Your guide to crafting high-quality questions](https://stackoverflow.blog/2022/10/27/introducing-the-ask-wizard-your-guide-to-crafting-high-quality-questions/)**
 
 - 스택오버플로에 고퀄리티 질문을 할 수 있도록 Ask Wizard 추가

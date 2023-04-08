@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node", "etc"]
 
 # ETC
 
-### ****[Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)****
+### **[Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)**
 
 - 언제나 안전하게 따를 수 있는 디자인 룰. 룰을 어겨야 하는 이유가 있다면 어겨도 되지만, 따라하면 안전한 룰
 - 색상, 여백, 정렬 등에 대한 팁들
