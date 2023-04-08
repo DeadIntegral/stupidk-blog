@@ -34,7 +34,7 @@ tags: ["javascript", "css", "node"]
 
 - [ES 8.1](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/8.1/changelog-client.html) 호환
 
-### [fastify-websocket: Basic WebSocket Support for Fastify](https://github.com/fastify/fastify-websocket)
+### **[fastify-websocket: Basic WebSocket Support for Fastify](https://github.com/fastify/fastify-websocket)**
 
 - fastify 에서 만든 fastify 를 위한 웹소켓 지원
 
@@ -56,17 +56,17 @@ tags: ["javascript", "css", "node"]
 - swift는 이 부분을 구현하여 1582년 10월15일 전날이 10월 4일 (js는 10월14일)
 - JS는 1582년 10월 15일 이전에는 율리우스력을 사용해서 윤년의 계산이 다름
 
-### Release
+### **Release**
 
 - **[Partytown 0.5.0](https://github.com/BuilderIO/partytown/releases/tag/v0.5.0)**
 - **[AVA 4.1.0](https://github.com/avajs/ava/releases/tag/v4.1.0)**
 - **[Rollup.js 2.70.0](https://github.com/rollup/rollup/releases/tag/v2.70.0)**
 
-### [How to Build a File Upload Service with Vanilla JavaScript](https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/)
+### **[How to Build a File Upload Service with Vanilla JavaScript](https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/)**
 
 - Vanilla JS로 업로드 청크로 분할하여 스트리밍 업로드하기
 
-### [A Complete Guide to TypeScript’s `never` Type](https://www.zhenghao.io/posts/ts-never)
+### **[A Complete Guide to TypeScript’s `never` Type](https://www.zhenghao.io/posts/ts-never)**
 
 - type is a set of possible values. `never` is an empty set of values.
 

@@ -61,7 +61,7 @@ tags: ["javascript", "node", "css"]
 
 # Javascript
 
-### [Creator of Bun Forms Oven](https://oven.sh/)
+### **[Creator of Bun Forms Oven](https://oven.sh/)**
 
 - Bun 에서 회사 설립 Oven
 
@@ -69,12 +69,12 @@ tags: ["javascript", "node", "css"]
 
 - TS 4.8 릴리즈
 
-### [How do you pronounce JSON?](https://www.notion.so/2022-08-27-f53b6084afc14d60bdfddae0090ea757)
+### **[How do you pronounce JSON?](https://www.notion.so/2022-08-27-f53b6084afc14d60bdfddae0090ea757)**
 
 - JSON의 창시자 더글라스 크락포드에게 JSON의 발음 물어본 영상
 - 본인은 Jason이라고 읽었고, 사람들이 Jay-sawn 이라고 읽지만 괜찮다고 함
 
-### [Storybook 7.0 Alpha](https://storybook.js.org/blog/7-0-design-alpha/)
+### **[Storybook 7.0 Alpha](https://storybook.js.org/blog/7-0-design-alpha/)**
 
 - 레이아웃 변경
 - CSS와 정렬을 디버깅 하기 위한 툴바 제공

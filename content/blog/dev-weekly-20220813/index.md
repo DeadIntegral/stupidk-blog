@@ -22,7 +22,7 @@ tags: ["javascript", "node", "css"]
 
 - VSCode 익스텐션. 하나의 파일에서 스크롤을 하면 다른 파일의 싱크를 맞춰서 스크롤.
 
-### Release
+### **Release**
 
 - [fastify 4.4.0](https://github.com/fastify/fastify/releases/tag/v4.4.0)
 - [prisma 4.2.0](https://github.com/prisma/prisma/releases/tag/4.2.0)
@@ -42,7 +42,7 @@ tags: ["javascript", "node", "css"]
 
 - `--build`, `--watch`, `--incremental` 성능 향상
 
-### Release
+### **Release**
 
 - [playwright 1.25.0](https://github.com/microsoft/playwright/releases/tag/v1.25.0)
 - [lerna 5.4.0](https://github.com/lerna/lerna/releases/tag/v5.4.0)

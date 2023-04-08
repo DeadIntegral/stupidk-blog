@@ -34,7 +34,7 @@ tags: ["javascript", "css", "node"]
 - 프리즈마 4.0 릴리즈
 - [업그레이드 가이드](https://www.prisma.io/docs/guides/upgrade-guides/upgrading-versions/upgrading-to-prisma-4)
 
-### BRIEF RELEASES
+### **BRIEF RELEASES**
 
 - [fastify v4.2.0](https://github.com/fastify/fastify/releases/tag/v4.2.0)
 - **[Kafka.js 2.1](https://github.com/tulios/kafkajs/releases/tag/v2.1.0)**

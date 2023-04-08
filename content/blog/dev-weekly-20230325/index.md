@@ -63,7 +63,7 @@ tags: ["javascript", "css", "node"]
 - 가짜 프로필의 조건을 설정해보고 빅쿼리 활용
 - 글 게시 후 깃헙의 혹은 가짜 스타 벤더의 조치. 테스트 레포에 스타를 눌렀던 모든 프로필 제거.
 
-### Release
+### **Release**
 
 - [Docusaurus 2.4](https://docusaurus.io/blog/releases/2.4/)
 - [Docs 8.0](https://github.com/dolanmiu/docx/releases/tag/8.0.0)

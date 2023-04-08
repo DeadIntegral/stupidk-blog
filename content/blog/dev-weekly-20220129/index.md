@@ -18,7 +18,7 @@ tags: ["javascript", "node", "css", "go"]
 
 - `process.on('multipleResolves')` 의 디프리케이트 전 커뮤니티(트위터)에서 설문조사
 
-### [Announcing TypeScript 4.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/)
+### **[Announcing TypeScript 4.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/)**
 
 - [TypeScript Trace Analyzer](https://www.npmjs.com/package/@typescript/analyze-trace)
 - Breaking Changes
@@ -66,9 +66,9 @@ tags: ["javascript", "node", "css", "go"]
 
 # ETC
 
-### [JS Framework Performance Table](https://krausest.github.io/js-framework-benchmark/2021/table_chrome_96.0.4664.45.html)
+### **[JS Framework Performance Table](https://krausest.github.io/js-framework-benchmark/2021/table_chrome_96.0.4664.45.html)**
 
-### [Github open issue - commit phishing](https://github.com/torvalds/linux/tree/8bcab0346d4fcf21b97046eb44db8cf37ddd6da0)
+### **[Github open issue - commit phishing](https://github.com/torvalds/linux/tree/8bcab0346d4fcf21b97046eb44db8cf37ddd6da0)**
 
 - 메일을 변조해서 커밋하는 피싱 - GPG 서명을 통한 대안 존재
 - [https://news.ycombinator.com/item?id=24976138](https://news.ycombinator.com/item?id=24976138)

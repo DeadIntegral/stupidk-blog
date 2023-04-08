@@ -21,11 +21,11 @@ tags: ["javascript", "node", "css"]
 
 # Node
 
-### ****[Gatsby is joining Netlify](https://www.notion.so/2023-02-03-e4b57798c2654c8c8fcf12e2eb8c8e16)****
+### **[Gatsby is joining Netlify](https://www.notion.so/2023-02-03-e4b57798c2654c8c8fcf12e2eb8c8e16)**
 
 - Netlify에서 Gatsby 인수
 
-### ****[7 Awesome Free APIs for Your Next Node.js Project](https://maximorlov.com/awesome-apis-for-nodejs-projects/)****
+### **[7 Awesome Free APIs for Your Next Node.js Project](https://maximorlov.com/awesome-apis-for-nodejs-projects/)**
 
 - Nodejs 프로젝트를 위한 7가지 무료 API 서비스 소개
 
@@ -70,7 +70,7 @@ tags: ["javascript", "node", "css"]
 
 - RFC를 준수한 UUID v1~v4 생성기
 
-### Release
+### **Release**
 
 - **[Nest 9.3](https://github.com/nestjs/nest/releases) -** Nest 9.3 릴리즈(글 작성 시점에 9.3.2)
 - **[Docusaurus 2.3](https://github.com/facebook/docusaurus/releases/tag/v2.3.0)** - Docusaurus 2.3 릴리즈 (글 작성 시점에 2.3.1)

@@ -12,7 +12,7 @@ tags: ["node", "javascript"]
 
 - 새로운 UI, 플러그인 API, 쿼리 엔진 등이 포함된 v4 릴리즈
 
-### In brief
+### **In brief**
 
 Github Action이 Node 16 지원
 

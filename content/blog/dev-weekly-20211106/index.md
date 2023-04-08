@@ -50,7 +50,7 @@ tags: ["javascript", "node", "css"]
 - 프로젝트 로드 속도 향상
 - JSX Attribute 자동완성
 
-### [V8 release v9.7](https://v8.dev/blog/v8-release-97)
+### **[V8 release v9.7](https://v8.dev/blog/v8-release-97)**
 
 - 플래그 없이 사용 가능한 새로운 두 배열 함수(findLast, findLastIndex)
 

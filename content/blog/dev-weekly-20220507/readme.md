@@ -70,7 +70,7 @@ tags: ["javascript", "css", "node"]
 - GUI 편집기 베타, 새 노드 머터리얼 에디터
 - Creative Commons 0 에셋 무료제공, 문서추가
 
-### RELEASES
+### **RELEASES**
 
 - pnpm 7.0
     - [https://github.com/pnpm/pnpm/releases/tag/v7.0.0](https://github.com/pnpm/pnpm/releases/tag/v7.0.0)

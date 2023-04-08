@@ -19,13 +19,13 @@ tags: ["javascript", "css", "go", "db"]
 
 ## GO
 
-### [PTerm: A Modern Go Module to Beautify Console Output](https://github.com/pterm/pterm/)
+### **[PTerm: A Modern Go Module to Beautify Console Output](https://github.com/pterm/pterm/)**
 
 - go beauty module
 - 크로스 플랫폼(윈도, 맥, 리눅스 100% 호환)
 - 콘솔에 차트, 큰글자, 박스, 트리 등 다양한 기능 제공
 
-### TiDB 5.0: A Distributed HTAP Database
+### **TiDB 5.0: A Distributed HTAP Database**
 
 - TiDB 5.0 릴리즈
 - Go로 작성된 수평확장성을 제공하는 디비
@@ -36,7 +36,7 @@ tags: ["javascript", "css", "go", "db"]
 
 ## Node
 
-### [Node Development with Docker and Docker Compose](https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/)
+### **[Node Development with Docker and Docker Compose](https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/)**
 
 - docker container란 무엇인지, 왜 도커를 사용해야 하는지 설명
 - node를 docker, docker-compose로 구성하는 방법과 장단점
@@ -49,14 +49,14 @@ tags: ["javascript", "css", "go", "db"]
 
 # Javascript
 
-### [The ES2021 Edition “JavaScript for Impatient Programmers”](https://gist.github.com/rauschma/e9c00fddc17e73fab6ce6c22b2e78e17)
+### **[The ES2021 Edition “JavaScript for Impatient Programmers”](https://gist.github.com/rauschma/e9c00fddc17e73fab6ce6c22b2e78e17)**
 
 - JavaScript for Impatient Programmers의 저자 Dr. Axel가 내용을 ES2021로 업데이트
 - 책의 상당수는 [https://exploringjs.com/impatient-js/](https://exploringjs.com/impatient-js/) 여기서 무료로 보기 가능
 
 ## Quick Bits
 
-### [https://developer.chrome.com/blog/migrating-to-typescript/](https://developer.chrome.com/blog/migrating-to-typescript/)
+### **[https://developer.chrome.com/blog/migrating-to-typescript/](https://developer.chrome.com/blog/migrating-to-typescript/)**
 
 - 구글 데브툴즈팀이 클로저 컴파일러에서 TS로 마이그레이션했대영
 ts도입까지의 과정, 마이그레이션과정, 마이그레이션 후 영향 등이 있어여
@@ -64,12 +64,12 @@ ts도입까지의 과정, 마이그레이션과정, 마이그레이션 후 영�
 
 ## Code & Tools
 
-### [CSS-Select 4.0: A CSS Selector Compiler and Engine](https://github.com/fb55/css-select)
+### **[CSS-Select 4.0: A CSS Selector Compiler and Engine](https://github.com/fb55/css-select)**
 
 - css selector 4.0 릴리즈
 - 기존의 css selector는 left to right 라서, css처럼 상향식 파서를 구현해 성능 향상
 
-### [moovie.js: A Movie-Focused HTML5 Media Player](https://github.com/BMSVieira/moovie.js)
+### **[moovie.js: A Movie-Focused HTML5 Media Player](https://github.com/BMSVieira/moovie.js)**
 
 - 커스텀 가능하고, 의존성 없고, 반응형이고 단축키 지원하는 무비 플레이어
 - .vtt, .srt 캡션 파일 지원 하고 로컬의 파일을 플레이어에 업로드 가능

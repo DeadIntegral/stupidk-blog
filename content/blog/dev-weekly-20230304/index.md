@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node", "etc"]
 
 # ETC
 
-### ****[Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)****
+### **[Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)**
 
 - 언제나 안전하게 따를 수 있는 디자인 룰. 룰을 어겨야 하는 이유가 있다면 어겨도 되지만, 따라하면 안전한 룰
 - 색상, 여백, 정렬 등에 대한 팁들
@@ -58,6 +58,6 @@ tags: ["javascript", "css", "node", "etc"]
 
 - 로컬 퍼스트 웹에 대한 컨셉, 개발 방법론 등
 
-### [The Carbon Impact of Web Standards](https://websitesustainability.com/cache/files/research23.pdf)
+### **[The Carbon Impact of Web Standards](https://websitesustainability.com/cache/files/research23.pdf)**
 
 - 웹 사이트, 서비스, 웹앱의 탄소 배출량 계산 리포트

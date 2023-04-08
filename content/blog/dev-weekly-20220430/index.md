@@ -66,7 +66,7 @@ tags: ["javascript", "css", "node"]
     - Measure addon - 렌더링된 UI가 디자인과 일치하는지 검사해주는 도구. DOM Element와 디자인 스펙의 치수 비교
     - Outline addon - CSS 정렬 디버깅을 위해 각 DOM Element의 경계 시각화
 
-### Brief and Release
+### **Brief and Release**
 
 - **[visual demo in just 256 bytes of JavaScript](https://twitter.com/KilledByAPixel/status/1517294627996545024)**
     - 256바이트로 만든 애니메이션 (고전)

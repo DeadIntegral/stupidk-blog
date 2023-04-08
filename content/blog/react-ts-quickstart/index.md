@@ -9,7 +9,7 @@ tags: ["javascript"]
 
 ## use Create React App
 
-### 새로운 프로젝트를 시작할 때
+### **$1**
 ```javascript
 npx create-react-app my-app --template typescript
 
@@ -18,7 +18,7 @@ npx create-react-app my-app --template typescript
 yarn create react-app my-app --template typescript
 ```
 
-### 이미 존재하는 프로젝트에 TS를 추가할 때
+### **$1**
 ```javascript
 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 

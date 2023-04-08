@@ -46,7 +46,7 @@ tags: ["javascript", "css", "node"]
 - Windows 7/8/8.1을 지원하는 마지막 메이저 버전
 - **[Introducing Electron Forge 6](https://www.electronjs.org/blog/forge-v6-release)**
 
-### ****[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)****
+### **[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)**
 
 - Framework - 스토리북 자동 구성 패키지
 - 애플리케이션의 설정을 읽고 스토리북 자동 구축.
@@ -78,7 +78,7 @@ tags: ["javascript", "css", "node"]
     - 개발자는 익스텐션 바이너리 패키징을 담당
     - 웹소켓 기반 IPC이기 때문에 네이티브 Cpp만큼 빠르지 않음
 
-### Release
+### **Release**
 
 **[OCLIF 3.3](https://github.com/oclif/oclif)** - 세일즈포스의 nodejs cli 만드는 도구
 

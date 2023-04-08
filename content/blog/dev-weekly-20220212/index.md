@@ -12,7 +12,7 @@ tags: ["javascript", "node"]
 - mermaid.js와 유사한 프로그램
 - 브라우저에서는 SVG, Canvas 지원, nodejs에서는 PNG,JPG,SVG file 지원
 
-### [Google Cloud Move **Node.js 10 to Maintenance**](https://cloud.google.com/blog/products/application-development/google-cloud-sdk-moves-nodejs-10-to-maintenance-mode)
+### **[Google Cloud Move **Node.js 10 to Maintenance**](https://cloud.google.com/blog/products/application-development/google-cloud-sdk-moves-nodejs-10-to-maintenance-mode)**
 
 - 구글 클라우드는 노드10 지원을 유지보수 모드로 낮춤
 
@@ -47,7 +47,7 @@ tags: ["javascript", "node"]
 - iOS 15에서 WebGL 2.0을 지원하면서 모든 메이저 브라우저가 WebGL 2.0 지원
 - `const gl = document.getElementById('myCanvas').getContext('webgl2');`
 
-### Release
+### **Release**
 
 - vite 2.8.0
     - [https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#280-2022-02-09](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#280-2022-02-09)

@@ -6,7 +6,7 @@ tags: ["javascript"]
 ---
 
 # The Power of Your GPU—Now Coming to Firefox Nightly
-### this is not weekly, its Mozilla Newsletter
+### **this is not weekly, its Mozilla Newsletter**
 
 <a href="https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox" target="_blank">A Taste of WebGPU in Firefox</a>
 - webGPU 에 대한 글입니다. 러스트 커뮤니티의 주도로 개발중이며, 파이어폭스 나이틀리에서 사용가능하다고 합니다.

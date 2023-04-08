@@ -31,7 +31,7 @@ tags: ["javascript", "css", "node"]
 - Nodejs 상표 소유권이 Joyent 에서 OpenJS Foundation로 이전
 - Joyent 대표 “having the trademarks in a neutral home, but with the ability to enact trademark restrictions if needed, fully ensures the integrity of the project.”
 
-### [TypeScript 4.6 **has been released**](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-rc/)
+### **[TypeScript 4.6 **has been released**](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-rc/)**
 
 - TS 4.6 RC 릴리즈
 
@@ -49,7 +49,7 @@ tags: ["javascript", "css", "node"]
 
 - react-native-windows가 JS에서 직접 windows runtime api 를 호출할 수 있도록 하는 새로운 확장 React Native WinRT 프로젝트 발표
 
-### Wordle game
+### **Wordle game**
 
 - [https://nerdlegame.com/](https://nerdlegame.com/)
 - [https://jazle.quest/](https://jazle.quest/)

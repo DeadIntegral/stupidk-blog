@@ -66,7 +66,7 @@ tags: ["javascript", "css", "node"]
 
 - 스벨트, 스벨트킷의 현 상태 업데이트
 
-### Release
+### **Release**
 
 - [Redux Toolkit 1.9](https://github.com/reduxjs/redux-toolkit/releases/tag/v1.9.0)
 - [VSCode October 2022 (version 1.73)](https://code.visualstudio.com/updates/v1_73)
@@ -84,6 +84,6 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### ****[Introducing the Ask Wizard: Your guide to crafting high-quality questions](https://stackoverflow.blog/2022/10/27/introducing-the-ask-wizard-your-guide-to-crafting-high-quality-questions/)****
+### **[Introducing the Ask Wizard: Your guide to crafting high-quality questions](https://stackoverflow.blog/2022/10/27/introducing-the-ask-wizard-your-guide-to-crafting-high-quality-questions/)**
 
 - 스택오버플로에 고퀄리티 질문을 할 수 있도록 Ask Wizard 추가

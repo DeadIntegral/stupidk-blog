@@ -75,6 +75,6 @@ tags: ["javascript", "css", "node"]
 
 # ETC
 
-### ****[Hey, GitHub](https://githubnext.com/projects/hey-github)****
+### **[Hey, GitHub](https://githubnext.com/projects/hey-github)**
 
 - 음성으로 깃헙에게 말하면, 코파일럿이 코딩해주는 도구

@@ -42,7 +42,7 @@ tags: ["javascript", "css", "node"]
 
 - AWS 람다 서버리스 런타임이 시작하는데 얼마나 걸리는지 라이브 데모를 제공하는 페이지
 
-### [On Using Playwright in GitHub Actions](https://radekmie.dev/blog/on-playwright-in-github-actions/)
+### **[On Using Playwright in GitHub Actions](https://radekmie.dev/blog/on-playwright-in-github-actions/)**
 
 - github action에 Playwright포함하는 예제
 - 테스트에 걸리는 시간 단축을 위한 Playwright 샤드 이용하기
@@ -69,7 +69,7 @@ tags: ["javascript", "css", "node"]
 - Edge to Serverless: Cloud Provider들이 경쟁적으로 TTI 개선 중
 - JS Runtime: Deno, Bun
 
-### ****[A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)****
+### **[A HISTORICAL REFERENCE OF REACT CRITICISM](https://www.zachleat.com/web/react-criticism/)**
 
 - 리액트가 나오고부터 지금까지 있었던 비판들 타임라인 정리
 

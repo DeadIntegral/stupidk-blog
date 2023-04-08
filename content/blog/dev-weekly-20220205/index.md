@@ -68,7 +68,7 @@ tags: ["javascript", "css", "node", "go"]
 - 마크다운에서 이미지 경로 인텔리전스
 - 웹용 VSCode(vscode.dev) PWA 지원 - 오프라인 지원(호스트에 설치 가능)
 
-### BRIEF
+### **BRIEF**
 
 - [https://twitter.com/dan_abramov/status/1488956873390923780](https://twitter.com/dan_abramov/status/1488956873390923780)
     - [].join(', ') 대신에 Intl.ListFormat 을 사용하여 언어별 대응
@@ -77,7 +77,7 @@ tags: ["javascript", "css", "node", "go"]
 - [https://github.com/facebook/jest/pull/11529#issuecomment-1027152470](https://github.com/facebook/jest/pull/11529#issuecomment-1027152470)
     - Jest는 페이스북의 도구지만 지난 몇년간 페이스북에서 Jest에 작업하지 않음
 
-### Release
+### **Release**
 
 - **[MDX 2.0](https://mdxjs.com/blog/v2/)**
 - **[Partytown 0.3](https://github.com/BuilderIO/partytown)**
