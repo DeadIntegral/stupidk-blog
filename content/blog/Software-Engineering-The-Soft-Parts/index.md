@@ -1,10 +1,9 @@
 ---
 title: Software Engineering - The Soft Parts 번역
-date: "2023-04-17:01:55.000Z"
+date: "2023-04-17T01:55:00.000Z"
 description: "Software Engineering - The Soft Parts 번역"
 tags: ["translate"]
 ---
-# Software Engineering - The Soft Parts 번역
 
 원문 - [https://addyosmani.com/blog/software-engineering-soft-parts/](https://addyosmani.com/blog/software-engineering-soft-parts/)
 
