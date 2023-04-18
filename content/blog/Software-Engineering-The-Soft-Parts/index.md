@@ -4,7 +4,10 @@ date: "2023-04-17T01:55:00.000Z"
 description: "Software Engineering - The Soft Parts 번역"
 tags: ["translate"]
 ---
-원문 - [https://addyosmani.com/blog/software-engineering-soft-parts/](https://addyosmani.com/blog/software-engineering-soft-parts/)
+
+원문 - [https://addyosmani.com/blog/software-engineering-soft-parts/](https://addyosmani.com/blog/software-engineering-soft-parts/)  
+
+**게시를 허락해주신 addy osmani에게 감사드립니다.**
 
 오늘은 구글 크롬에서 10년간의 시간을 보내며 배운 소프트웨어 엔지니어링 "소프트 스킬" 중 일부를 공유하려고 합니다. 저는 현재 이곳에서 고급 기술 관리자로 일하고 있습니다. 10주년을 맞이하면서, 제가 배운 몇 가지 교훈에 대해 되새겨보고자 합니다. 이 글이 여러분의 경력에 도움이 되기를 바랍니다.
 
