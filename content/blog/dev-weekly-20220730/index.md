@@ -5,8 +5,6 @@ description: "dev-weekly 2022-07-30"
 tags: ["javascript", "node", "css"]
 ---
 
-# 2022-07-30
-
 # CSS
 
 ### **[The CSS Behind Figma](https://ishadeed.com/article/figma-css)**

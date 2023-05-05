@@ -4,8 +4,6 @@ date: "2023-05-05T17:00:00.000Z"
 description: "dev-weekly 2023-05-05"
 tags: ["javascript", "css", "node", "etc"]
 ---
-# 2023-05-05
-
 # CSS
 
 ### **[Rebuilding a featured news section with modern CSS: Vox news](https://ishadeed.com/article/rebuild-featured-news-modern-css/)**
