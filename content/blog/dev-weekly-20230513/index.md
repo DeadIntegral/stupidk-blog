@@ -89,5 +89,5 @@ tags: ["javascript", "css", "node", "etc"]
 
 ### **Release**
 
-- [elementary 2.0](https://www.notion.so/2023-05-13-514d38001b1a4c89b0ed9e6d9428b0f4)
+- [elementary 2.0](https://github.com/elemaudio/elementary/releases/tag/%40elemaudio%2Fcore%402.0.0)
 - [htmlparser2 9.0](https://github.com/fb55/htmlparser2/releases/tag/v9.0.0)
