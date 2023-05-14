@@ -14,7 +14,7 @@ tags: ["javascript", "node", "css"]
     ```css
     background-image: image-set(
     	"cat.avif" type("image/avif"),
-    	"cat.avif" type("image/avif")
+    	"cat.jpg" type("image/jpeg")
     );
     ```
     
