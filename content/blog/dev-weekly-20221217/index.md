@@ -44,7 +44,7 @@ tags: ["javascript", "css", "node"]
 ### **[Optimize Interaction to Next Paint](https://web.dev/optimize-inp/)**
 
 - Interaction to Next Paint는 사용자가 이용하는 동안 발생하는 모든 인터랙션의 반응성을 평가하는 메트릭
-- 이벤트 콜백 최적화, 프레젠테이션 지인 최적화
+- 이벤트 콜백 최적화, 프레젠테이션 지연 최적화
 
 ### **Release**
 
