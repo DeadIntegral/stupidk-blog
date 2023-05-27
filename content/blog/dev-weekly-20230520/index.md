@@ -65,7 +65,7 @@ tags: ["javascript", "css", "node", "etc"]
 
 ### **[A simple, modern QR code library](https://github.com/Rich-Harris/headless-qr)**
 
-- 리치해리스가 마든 QRCode 라이브러리.
+- 리치해리스가 만든 QRCode 라이브러리.
 - [https://github.com/kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) 에서 필요없는 부분 제거
 
 ### **[jQuery 3.7.0 Released: Staying in Order](https://blog.jquery.com/2023/05/11/jquery-3-7-0-released-staying-in-order/)**
