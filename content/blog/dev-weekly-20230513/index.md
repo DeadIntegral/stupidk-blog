@@ -58,7 +58,7 @@ tags: ["javascript", "css", "node", "etc"]
 
 ### **[ES2023 introduces new array copying methods to JavaScript](https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/)**
 
-- toSorted(), toReversed(), toSpliced, with() 메서드를 통해 원본 배열을 변경하지 않고 해당 작업의 결과물로 새로운 배열 반환하기
+- toSorted(), toReversed(), toSpliced(), with() 메서드를 통해 원본 배열을 변경하지 않고 해당 작업의 결과물로 새로운 배열 반환하기
 - 배열의 각 값들을 복사하는 것이기 때문에, 값이 참조면 효력없음.
 
 ### **[Fake Windows 11 in Svelte](https://win11-svelte.vercel.app/)**
