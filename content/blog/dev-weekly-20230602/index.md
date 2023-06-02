@@ -2,7 +2,7 @@
 title: dev-weekly 2023-06-02
 date: "2023-06-02T23:50:00.000Z"
 description: "dev-weekly 2023-06-02"
-tags: ["javascript", "css", "node", "etc"]
+tags: ["javascript", "css", "node", "go", "etc"]
 ---
 
 # CSS
@@ -48,7 +48,7 @@ tags: ["javascript", "css", "node", "etc"]
 
 ### **[JavaScript Macros in Bun](https://bun.sh/blog/bun-macros)**
 
-- Bun의 새 기능 매크로 - 번들 타임에 JS 함수를 하는 매커니즘
+- Bun의 새 기능 매크로 - 번들 타임에 JS 함수를 실행 하는 매커니즘
 
 ### **[Sharing WebSocket Connections between Browser Tabs and Windows](https://brightinventions.pl/blog/sharing-websocket-connections-between-browser-tabs-and-windows/)**
 
@@ -60,6 +60,7 @@ tags: ["javascript", "css", "node", "etc"]
 - [Electron 25.0.0](https://www.electronjs.org/blog/electron-25-0)
 - [Bootstrap 5.3.0](https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/)
 - [Parcel 2.9](https://parceljs.org/blog/v2-9-0/)
+- [Announcing TypeScript 5.1](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
 
 # ETC
 
@@ -72,3 +73,13 @@ tags: ["javascript", "css", "node", "etc"]
 
 - WASM ABI 를 개선하고 POSIX와의 호환성을 높인 결과물 WASIX 출시
 - WASIX란 애플리케이션을 지금 컴파일 하고 사용할 수 있도록 해주는 시스템 콜 확장.
+
+### **[JMAP](https://jmap.io/)**
+
+- IETF에서 게시한 오피셜 JSON Meta Application Protocol
+- Gmail에서만 작동하는 독점 이메일 API 대안
+
+### **[How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)**
+
+- 2023년에 go 시작하기
+- 설치, 환경설정, 에디터 셋팅 부터 시작하여 패키지 매니징, 프로파일링, 테스트, 도커라이징 등 프로젝트를 시작하는데 도움을 주는 가이드
