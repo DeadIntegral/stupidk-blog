@@ -75,5 +75,5 @@ tags: ["javascript", "css", "node"]
 ### Release
 
 - **[Astro 2.5](https://astro.build/blog/astro-250/)**
-- [Preact 10.15.0](https://github.com/preactjs/preact/releases/tag/10.15.0)
+- **[Preact 10.15.0](https://github.com/preactjs/preact/releases/tag/10.15.0)**
 - **[MapLibre GL JS v3](https://maplibre.org/news/2023-05-23-maplibre-gl-js-v3/)**
